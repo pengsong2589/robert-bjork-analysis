@@ -1,0 +1,75 @@
+params,values,,,
+normalize,association,,,
+Title,Author Collaboration network,,,
+type,auto,,,
+label,TRUE,,,
+labelsize,2,,,
+label.cex,TRUE,,,
+label.color,FALSE,,,
+label.n,50,,,
+halo,FALSE,,,
+cluster,walktrap,,,
+community.repulsion,0.05,,,
+size,5,,,
+size.cex,TRUE,,,
+curved,FALSE,,,
+noloops,TRUE,,,
+remove.multiple,FALSE,,,
+remove.isolates,TRUE,,,
+edgesize,15,,,
+edges.min,1,,,
+alpha,0.7,,,
+verbose,FALSE,,,
+,,,,
+,,,,
+Node,Cluster,Betweenness,Closeness,PageRank
+robert a. bjork,1,1068.49488,0.020408163,0.298993872
+elizabeth ligon bjork,1,38.75222074,0.012658228,0.109680878
+veronica x. yan,1,6.73086397,0.011363636,0.04317204
+michael c. anderson,1,0,0.010416667,0.017294304
+asher koriat,1,0,0.010416667,0.01403466
+courtney m. clark,1,0,0.010638298,0.014048136
+dominic a. simon,1,0,0.010309278,0.007958923
+alan d. castel,1,0.177294284,0.010752688,0.012240588
+carole l. yue,1,0.008264463,0.010526316,0.009328787
+daniel r. kimball,1,0,0.010416667,0.00784243
+elizabeth j. marsh,1,0,0.010416667,0.010088906
+nicholas c. soderstrom,1,0,0.010526316,0.009065638
+sharon m. noh,1,0,0.010526316,0.010651965
+steven c. pan,1,0,0.010526316,0.010492569
+thomas d. wickens,1,0,0.010309278,0.006719192
+a richardson-klavehn,1,0,0.010309278,0.005479461
+daniel druckman,1,0,0.010309278,0.005479461
+elliot hirshman,1,0,0.010309278,0.005479461
+faria sana,1,0,0.010638298,0.011499121
+janet metcalfe,1,0,0.010309278,0.005479461
+khanh-phuong thai,1,0,0.010416667,0.007925877
+limor sheffer,1,0,0.010416667,0.008461827
+michael a. garcia,1,0.005681818,0.010526316,0.007905935
+vered halamish,1,0,0.010416667,0.006702669
+william b. whitten,1,0,0.010309278,0.005479461
+barbara a. spellman,2,0,0.010416667,0.008278177
+aaron bloomfield,2,0,0.010416667,0.006585214
+nate kornell,3,1.063902027,0.010989011,0.032558964
+aaron s. benjamin,3,0.464285714,0.010752688,0.017858289
+matthew hays,3,0.1563147,0.010752688,0.020827047
+jason r. finley,3,0.138716356,0.010752688,0.013650857
+lindsey e. richland,3,0,0.010526316,0.010884499
+bennett l. schwartz,3,0,0.010416667,0.008239379
+benjamin c. storm,4,0.142857143,0.010752688,0.030998037
+saskia giebl,4,0.55952381,0.010869565,0.022572404
+stefany mena,4,0.047619048,0.010752688,0.017510506
+dorothy r. buchli,4,0,0.010638298,0.010093017
+riley sandberg,4,0,0.010638298,0.01260491
+r. edward geiselman,5,0,0.010416667,0.012854157
+deborah l. fishman,5,0,0.010416667,0.008601185
+addison e. woodward,6,0,0.010416667,0.011696099
+robert h. jongeward,6,0,0.010416667,0.008793356
+dillon h. murphy,7,0,0.010638298,0.011049573
+jordan andrew brabec,7,0.257575758,0.010752688,0.012574476
+a.m. chen,7,0,0.010638298,0.008455225
+doug rohrer,8,0,0.010526316,0.015505828
+harold pashler,8,0,0.010526316,0.015505828
+mark a. mcdaniel,8,0,0.010526316,0.015505828
+katharina kircanski,9,0,0.010416667,0.00764576
+michelle g. craske,9,0,0.010416667,0.00764576

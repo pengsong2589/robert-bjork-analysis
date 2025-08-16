@@ -1,0 +1,2549 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        124,
+                        90,
+                        486,
+                        110
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                90,
+                                486,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        90,
+                                        486,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "The promise and perils of self-regulated study"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        218,
+                        128,
+                        394,
+                        148
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                218,
+                                128,
+                                394,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        218,
+                                        128,
+                                        394,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "NATE KORNELL AND ROBERT A. BJORK  University of California, Los Angeles, California"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        107,
+                        159,
+                        504,
+                        211
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                159,
+                                504,
+                                211
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        159,
+                                        504,
+                                        211
+                                    ],
+                                    "type": "text",
+                                    "content": "Self- regulated study involves many decisions, some of which people make confidently and easily (if not always optimally) and others of which are involved and difficult. Good study decisions rest on accurate monitoring of ongoing learning, a realistic mental model of how learning happens, and appropriate use of study strategies. We review our research on the decisions people make, for better or worse, when deciding what to study, how long to study, and how to study."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        70,
+                        243,
+                        299,
+                        375
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                243,
+                                299,
+                                375
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        243,
+                                        299,
+                                        375
+                                    ],
+                                    "type": "text",
+                                    "content": "Self- regulated study involves, in the main, decisions students make while they study on their own, away from a teacher's guiding hand. Within Nelson and Narens's (1994) influential framework, students are characterized as confronting three types of decisions—selection of kind of processing, allocation of study time, and termination of study. We have expanded that framework to include decisions about study strategies and scheduling. We focus on microlevel decisions (e.g., \"Do I know this word pair well enough to stop studying it?\"), as did Nelson and Narens, but we also address some macrolevel issues (e.g., \"What topic should I study tonight?\")."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        71,
+                        386,
+                        135,
+                        396
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                386,
+                                135,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        386,
+                                        135,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "What to Study"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        70,
+                        397,
+                        299,
+                        484
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                397,
+                                299,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        397,
+                                        299,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "The choice of which items to study is one of the two most frequently investigated components of self- regulated study (the other is deciding how long to persevere once a choice has been made). Examples of this type of choice include deciding which foreign language vocabulary pairs to study, which sections or chapters in a textbook to read again, which molecular structures to diagram, which musical passages to practice, and so forth."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        70,
+                        485,
+                        299,
+                        638
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                485,
+                                299,
+                                638
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        485,
+                                        299,
+                                        638
+                                    ],
+                                    "type": "text",
+                                    "content": "Choosing among items. Research by Kornell and Metcalfe (2006) demonstrates that when people decide what to study, a great deal depends on whether their goal is to master all to- be- learned information or only some of it. When the participants studied a list of word pairs and were then allowed to select half of those pairs for restudy, they chose yet- to- be- learned pairs, presumably with the goal of learning all of the pairs. Contrary to what was, until recently, the prevailing view, people do not always focus on the most difficult items, however. When the participants had to select word pairs to study from the list of pairs they had failed to recall on the preceding trial, making mastery impossible, they responded by selecting the easiest of these yet- to- be- learned items."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        70,
+                        639,
+                        299,
+                        672
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                639,
+                                299,
+                                672
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        639,
+                                        299,
+                                        672
+                                    ],
+                                    "type": "text",
+                                    "content": "Region of proximal learning as a guide to selection. Kornell and Metcalfe (2006) interpret such findings in the context of their region of proximal learning (RPL) "
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                310,
+                                243,
+                                540,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        243,
+                                        540,
+                                        352
+                                    ],
+                                    "type": "text",
+                                    "content": "model of study time allocation, which holds that study choices depend on a person's goals, which in turn depend on the situation. If a situation seems to allow studying to the point of mastery (e.g., in the absence of time pressure), people will choose to study the most difficult items. Under time pressure, however, people give high priority to relatively easy items—the items that are most proximal to the learned state and thus most readily learnable. In both situations (and universally in the literature), people do not study items that they think they have already learned."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        310,
+                        243,
+                        540,
+                        352
+                    ],
+                    "type": "text",
+                    "lines": [],
+                    "index": 8,
+                    "lines_deleted": true
+                },
+                {
+                    "bbox": [
+                        310,
+                        353,
+                        540,
+                        441
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                353,
+                                540,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        353,
+                                        540,
+                                        441
+                                    ],
+                                    "type": "text",
+                                    "content": "Choices made according to the RPL model are also adaptive. In support of the model, Kornell and Metcalfe (2006) found, in all of their experiments, that participants learned more when their choices were honored versus when they studied the items they had not chosen to study. In addition, across all of the experiments, the "
+                                },
+                                {
+                                    "bbox": [
+                                        310,
+                                        353,
+                                        540,
+                                        441
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "10\\% - 20\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        310,
+                                        353,
+                                        540,
+                                        441
+                                    ],
+                                    "type": "text",
+                                    "content": " of participants whose choices did not fit the RPL model performed poorly."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        310,
+                        453,
+                        397,
+                        462
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                453,
+                                397,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        453,
+                                        397,
+                                        462
+                                    ],
+                                    "type": "text",
+                                    "content": "How Long to Study"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        310,
+                        464,
+                        540,
+                        540
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                464,
+                                540,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        464,
+                                        540,
+                                        540
+                                    ],
+                                    "type": "text",
+                                    "content": "Once an item has been selected for study, two more decisions must be made: (1) how long to persist before moving on to another item and (2) when to stop studying the item altogether. The question of choosing not to study something any longer, to which we return later in this section, has not been examined systematically in the laboratory but is a common component of self- regulated study."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        310,
+                        540,
+                        540,
+                        616
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                540,
+                                540,
+                                616
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        540,
+                                        540,
+                                        616
+                                    ],
+                                    "type": "text",
+                                    "content": "Deciding how long to persist. According to the RPL model, the choice of what to study is deliberate but perseverance is self- perpetuating. Metcalfe and Kornell (2005) argued that perseverance is governed by what they called a judgment of rate of learning (iROL), which is a judgment not of learning itself but of the rate of learning, and that people stop studying when the rate drops too low."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        310,
+                        616,
+                        540,
+                        671
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                616,
+                                540,
+                                671
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        616,
+                                        540,
+                                        671
+                                    ],
+                                    "type": "text",
+                                    "content": "Rates of learning can change quickly. In studying the Spanish translation of an English word, for example, the rate of learning starts high but drops off quickly, so that within seconds little or no additional learning occurs (Metcalfe & Kornell, 2003). The easier an item, the"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        70,
+                        80,
+                        299,
+                        125
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                80,
+                                299,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        80,
+                                        299,
+                                        125
+                                    ],
+                                    "type": "text",
+                                    "content": "more quickly the learning rate drops off, which is why people generally persist longer on more difficult items (although items that are too difficult also have low rates of learning)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        71,
+                        125,
+                        299,
+                        355
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                125,
+                                299,
+                                355
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        125,
+                                        299,
+                                        355
+                                    ],
+                                    "type": "text",
+                                    "content": "If deciding how long to persevere is self- perpetuating and deciding what to study is deliberate, then these two types of decisions may be at odds sometimes when, for example, people choose (strategically) to study easy items but persevere longest on hard items (Thiede & Dunlosky, 1999). Metcalfe and Kornell (2005) presented participants with a "
+                                },
+                                {
+                                    "bbox": [
+                                        71,
+                                        125,
+                                        299,
+                                        355
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "3\\times 3"
+                                },
+                                {
+                                    "bbox": [
+                                        71,
+                                        125,
+                                        299,
+                                        355
+                                    ],
+                                    "type": "text",
+                                    "content": " grid of English- Spanish translations to study, with easy items in the left column, intermediate items in the middle, and difficult items in the right column. Participants could click on an English word, which revealed the Spanish translation, study as long as they liked, then click on another cue, revealing its translation and hiding the first translation, and so on, until the 45- sec time limit ran out. Participants tended to choose easy items but, once they had selected an item, persisted longest on difficult items. It was as if, despite their deliberate strategy of studying the easy items, they could not stick with these items for long because their rates of learning dropped quickly, and they also could not help but study the difficult items at length because their learning rate for these items remained high."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        71,
+                        357,
+                        299,
+                        476
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                357,
+                                299,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        357,
+                                        299,
+                                        476
+                                    ],
+                                    "type": "text",
+                                    "content": "To investigate the changes in perseverance that occur as people study something repeatedly, we asked participants to study a list of 20 English- Indonesian translations (e.g., \"where- dimanai\") as many times as they could in "
+                                },
+                                {
+                                    "bbox": [
+                                        71,
+                                        357,
+                                        299,
+                                        476
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "10\\mathrm{min}"
+                                },
+                                {
+                                    "bbox": [
+                                        71,
+                                        357,
+                                        299,
+                                        476
+                                    ],
+                                    "type": "text",
+                                    "content": " (Kornell, 2007). Time spent per item was left entirely up to the participants. The first time through the list, participants averaged 7.4 sec per item, which dropped to less than 1 sec per item by the last pass through the list. By speeding up, participants were able to study each item more times (8.6) than they could have if they had maintained their initial rate (5.6 times)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        71,
+                        477,
+                        299,
+                        740
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                477,
+                                299,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        477,
+                                        299,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": "When metacognitive judgments are faulty, study decisions based on such judgments will be faulty as well. Koriat and Bjork (2005), for example, found that cued recall of pairs with a strong forward association (\"kittencat\") was much higher than was the recall of pairs with a weak forward association (\"cat- kitten\"), but participants predicted equivalent recall of such pairs. Koriat and Bjork attribute such misassessment to a foresight bias—that is, in the presence of information that is available at study but unavailable and required at test, people are unable to discount the influences of that information (e.g., the backward association in \"cat- kitten\"). One behavioral consequence is misguided study time allocation. Participants, for example, chose to study forward and backward pairs for about the same amount of time (Koriat & Bjork, 2006a, 2006b). They shifted, across study- test trials, to spending more time on backward pairs but apparently did so for item- specific, not principled, reasons: Given a new list containing forward and backward pairs, they again devoted equal study time to both, unless they were provided an explicit explanation of the difference between forward and backward pairs. (These findings highlight that perseverance in studying, if mostly self- perpetuating, can be influenced by analytical processes.)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        311,
+                        81,
+                        540,
+                        234
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                81,
+                                540,
+                                234
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        81,
+                                        540,
+                                        234
+                                    ],
+                                    "type": "text",
+                                    "content": "Deciding when to stop studying. It seems simple: Stop studying when you know the information. Often, however, people stop studying when they do not know the information—when, for example, they are under time pressure or they feel that the information is either not learnable or not worth learning (e.g., when students decide to study for a grade of B). Moreover, to know information can mean many things. Knowing something right now, for example, is different from knowing it in the future, and people can sometimes dramatically underpredict their own forgetting (see Koriat, Bjork, Sheffer, & Bar, 2004). After students learn something in the short term, do they realize they are likely to forget it and therefore make coming back to it later a priority?"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        311,
+                        235,
+                        540,
+                        322
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                235,
+                                540,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        235,
+                                        540,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "When people use flashcards to study, they make explicit decisions about when to stop studying. When we surveyed the participants in an experiment that employed a computerized flashcard paradigm (Kornell & Bjork, 2007b), "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        235,
+                                        540,
+                                        322
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "56\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        235,
+                                        540,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": " of the participants reported using flashcards to learn and, of that "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        235,
+                                        540,
+                                        322
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "56\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        235,
+                                        540,
+                                        322
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "75\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        235,
+                                        540,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": " reported dropping cards—that is, putting some cards aside in order to spend more time on other cards."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        311,
+                        324,
+                        540,
+                        597
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                324,
+                                540,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        324,
+                                        540,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "Our flashcard experiments involved asking participants to study two sets of flashcards on a computer, each set comprising 20 English- Swahili translations. Participants were given "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        324,
+                                        540,
+                                        597
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "10\\mathrm{min}"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        324,
+                                        540,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": " to study each list and were told that they could, during the study time, drop cards from one of the sets but not from the other. Our hypothesis was that participants would drop items that they deemed learned, leaving themselves additional time to focus on yet- to- be- learned items, which would result in better later recall in the drop condition than in the no- drop condition. In fact, the opposite happened: Performance was better when people could not drop items (63% accuracy vs. "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        324,
+                                        540,
+                                        597
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "59\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        324,
+                                        540,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "). This finding is all the more remarkable because flashcards include two features, self- testing and spaced repetitions, that have been shown to positively affect judgments of learning (JOLs) (Dunlosky & Nelson, 1992) and, presumably, decisions to drop. The finding is attributable, in part, to poor performance by participants who dropped all of the items before "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        324,
+                                        540,
+                                        597
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "10\\mathrm{min}"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        324,
+                                        540,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": " had elapsed, thereby giving themselves less study time in the drop condition than in the no- drop condition. From an applied standpoint, such participants—when, in effect, did a poor job of self- regulated study—should be included in the analysis, but even when they are excluded, performance in the no- drop condition (61%) exceeded performance in the drop condition (59%), although not significantly."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        311,
+                        599,
+                        540,
+                        740
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                599,
+                                540,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        599,
+                                        540,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": "Perhaps most surprising is that the participants dropped items that they seemed to realize they did not really know. In one condition, participants were asked to make a JOL when, and only when, they dropped a card. Using a 0, 20, 40, ... 100 scale, they predicted the likelihood that they would be able to recall the dropped item on the final test, with 0 indicating the lowest JOL and 100 indicating the highest. We anticipated that the JOL ratings for dropped items would pile up at the high end of the scale, with a smaller pile at the low end (i.e., for items deemed too difficult to learn), but this was not the case; the distribution we obtained is shown in Figure 1. The average JOL score was a mere "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        599,
+                                        540,
+                                        740
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "51\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        599,
+                                        540,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": ", a result that is even more"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        81,
+                        80,
+                        291,
+                        266
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                81,
+                                80,
+                                291,
+                                266
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        80,
+                                        291,
+                                        266
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                81,
+                                                80,
+                                                291,
+                                                266
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c19b9fe4cc90b8550312e40de1899aea0ca19b82919d64ec2c0918ea8985901b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                274,
+                                300,
+                                302
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        274,
+                                        300,
+                                        302
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                274,
+                                                300,
+                                                302
+                                            ],
+                                            "type": "text",
+                                            "content": "Figure 1. Frequency of each of the six possible judgment of learning (JOL) responses. JOLs were made immediately after a flashcard was dropped from study."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        70,
+                        323,
+                        299,
+                        355
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                323,
+                                299,
+                                355
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        323,
+                                        299,
+                                        355
+                                    ],
+                                    "type": "text",
+                                    "content": "surprising given that "
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        323,
+                                        299,
+                                        355
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "79\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        323,
+                                        299,
+                                        355
+                                    ],
+                                    "type": "text",
+                                    "content": " of the participants reported, on a postexperiment questionnaire, that their strategy was to drop items that they felt they knew."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        70,
+                        356,
+                        299,
+                        454
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                356,
+                                299,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        356,
+                                        299,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": "Basically, our participants seemed to be of two minds: They dropped items they knew at the time, but they also seemed aware that they might forget those items by the time of the test. If they knew that they might forget those items, why not leave them in the deck for further study? Our hypothesis is that the participants believed, wrongly, that there was little to gain from restudying an answer once they could recall it, even if the answer might otherwise be forgotten."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        70,
+                        455,
+                        299,
+                        543
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                455,
+                                299,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        455,
+                                        299,
+                                        543
+                                    ],
+                                    "type": "text",
+                                    "content": "A subsequent experiment supported this hypothesis. When participants were asked to type in answers as they studied, "
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        455,
+                                        299,
+                                        543
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "58\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        455,
+                                        299,
+                                        543
+                                    ],
+                                    "type": "text",
+                                    "content": " of dropped items were dropped after a single correct recall (and "
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        455,
+                                        299,
+                                        543
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "20\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        455,
+                                        299,
+                                        543
+                                    ],
+                                    "type": "text",
+                                    "content": " after not having been recalled at all!). Such a strategy is far from optimal: Items that are close to being recallable (i.e., in the region of proximal learning) on a later test should be prioritized, not dropped."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        70,
+                        554,
+                        129,
+                        564
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                554,
+                                129,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        554,
+                                        129,
+                                        564
+                                    ],
+                                    "type": "text",
+                                    "content": "How to Study"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        70,
+                        565,
+                        299,
+                        707
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                565,
+                                299,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        565,
+                                        299,
+                                        707
+                                    ],
+                                    "type": "text",
+                                    "content": "How to study is obviously a critical matter, and students employ a wide range of strategies and habits, including testing themselves, copying their notes, underlining virtually every line in their textbooks, making outlines and diagrams, choosing to leave the readings until the last minute, and so forth. We focus here on two strategies, spacing practice and self- testing, both of which are desirable difficulties—that is, manipulations that introduce difficulties during study, but enhance long- term learning (Bjork, 1994). The very fact that desirable difficulties introduce challenges and can decrease a student's perceived rate of learning may lead students to avoid rather than select such techniques."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        70,
+                        708,
+                        299,
+                        741
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                708,
+                                299,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        708,
+                                        299,
+                                        741
+                                    ],
+                                    "type": "text",
+                                    "content": "Choosing to space or mass study activities. Deciding when to study involves a wide range of scheduling decisions. Even choosing the time of day may be impor "
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                311,
+                                80,
+                                540,
+                                191
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        80,
+                                        540,
+                                        191
+                                    ],
+                                    "type": "text",
+                                    "content": "tant, given that many people are most capable, cognitively, in the morning (the legions of college students who fill campus libraries after the sun goes down notwithstanding). Our focus here is on students' attitudes toward and decisions about the timing of successive study sessions. Spacing—that is, separating successive study sessions rather than massing such sessions—has large positive effects on long- term memory (see, e.g., Cepeda, Pashler, Vul, Wixted, & Rohrer, 2006; Dempster, 1988). But what do students choose to do?"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        311,
+                        80,
+                        540,
+                        191
+                    ],
+                    "type": "text",
+                    "lines": [],
+                    "index": 8,
+                    "lines_deleted": true
+                },
+                {
+                    "bbox": [
+                        311,
+                        191,
+                        540,
+                        278
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                191,
+                                540,
+                                278
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        191,
+                                        540,
+                                        278
+                                    ],
+                                    "type": "text",
+                                    "content": "Choosing to space study activities requires a belief that most students may not have—that spacing is advantageous. Participants in a study of motor learning by Simon and Bjork (2001), for example, gave higher JOL ratings after massed than after spaced practice, and studies of verbal learning have often produced no significant difference between JOLs following spaced versus massed practice (see, e.g., Zechmeister & Shaughnessy, 1980)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        311,
+                        279,
+                        540,
+                        509
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                279,
+                                540,
+                                509
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        279,
+                                        540,
+                                        509
+                                    ],
+                                    "type": "text",
+                                    "content": "In a recent study, we have demonstrated the extent to which participants can misapprehend the benefits of spacing (Kornell & Bjork, 2007a). The participants' task was to learn the styles of twelve different artists by studying six paintings by each artist. A given painting was presented once. For six of the artists, all six of their paintings were presented in succession (massed), the paintings by the other six artists were interleaved (spaced). After the study session, participants were shown new paintings one at a time and asked to identify each painting's artist. After that test, participants were asked which type of presentation, massed or spaced, they thought had best facilitated their learning of the artists' styles. Actual performance exhibited a robust spacing effect (78% of participants did better in the spaced condition), but only 22% of the participants thought they had done better in the spaced condition, even though the JOL took place after the test, for which they had received feedback. In this particular situation, it appears that students would choose massed practice if given a choice, however counterproductive that choice might be."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        311,
+                        510,
+                        540,
+                        719
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                510,
+                                540,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        510,
+                                        540,
+                                        719
+                                    ],
+                                    "type": "text",
+                                    "content": "Experiments in which participants have been asked explicitly to choose between massing or spacing the practice of individual items (see, e.g., Benjamin & Bird, 2006; Son, 2004) have produced inconsistent and complex findings. To address whether people spontaneously space study activities, Son and Kornell (2007) asked participants to schedule their own studying of a set of 16 to- be- learned synonyms (e.g., \"obfuscate- confuse\"). They were shown all 16 cue words on the left side of a computer monitor and 8, 16, or 24 \"slots\" on the right side of the monitor. Participants were told to click and drag the cues that they wanted to study into the slots and that when they finished, they would be allowed to study each of the pairs in that order. (Because there were 16 slots, repeating items was necessary only in the 24- slot condition, but every participant in the 16- slot condition opted to repeat at least one item, and 9 of 25 participants in the 8- slot condition repeated an item.) Participants spaced their study significantly more than would have been predicted by chance."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        311,
+                        719,
+                        540,
+                        741
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                719,
+                                540,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        719,
+                                        540,
+                                        741
+                                    ],
+                                    "type": "text",
+                                    "content": "Choosing to self- test. Self- testing can be a very effective study strategy, especially in the interest of long- term"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        72,
+                        83,
+                        298,
+                        287
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                83,
+                                298,
+                                287
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        83,
+                                        298,
+                                        287
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                83,
+                                                298,
+                                                287
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4b376b9c831838c06977e98213259391a445f907b9d9d46a5b3b42ff8f1f059c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                295,
+                                300,
+                                331
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        295,
+                                        300,
+                                        331
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                295,
+                                                300,
+                                                331
+                                            ],
+                                            "type": "text",
+                                            "content": "Figure 2. Proportion of trials on which participants chose to test themselves (instead of choosing presentation) as a function of the number of times they had studied the list of word pairs. Error bars represent standard errors."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        71,
+                        356,
+                        299,
+                        465
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                356,
+                                299,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        356,
+                                        299,
+                                        465
+                                    ],
+                                    "type": "text",
+                                    "content": "retention (see, e.g., Bjork, 1975; Roediger & Karpicke, 2006). The act of retrieving information from memory increases, sometimes dramatically, the likelihood that information can be retrieved again in the future. When adopting self- testing as a study strategy, it is important to choose the right time to test oneself, because the more difficult the retrieval (provided it succeeds), the larger the benefits; however, a failure to retrieve tends not to benefit later recall, especially in the absence of corrective feedback (Landauer & Bjork, 1978)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        71,
+                        466,
+                        299,
+                        631
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                466,
+                                299,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        466,
+                                        299,
+                                        631
+                                    ],
+                                    "type": "text",
+                                    "content": "To examine whether and when people test themselves when they study, we gave participants "
+                                },
+                                {
+                                    "bbox": [
+                                        71,
+                                        466,
+                                        299,
+                                        631
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "10\\mathrm{min}"
+                                },
+                                {
+                                    "bbox": [
+                                        71,
+                                        466,
+                                        299,
+                                        631
+                                    ],
+                                    "type": "text",
+                                    "content": " to study a list of 20 Indonesian- English vocabulary pairs; participants then chose one of two study modes: a presentation mode (cue and target presented together) or a test mode (cue shown first, followed, after the participant pressed a button, by the target) (Kornell, 2007). Participants decided which mode to start in, and they could change the mode at any time (the mode applied to the entire list, not to one item a time). As Figure 2 shows, participants began in presentation mode but quickly shifted to test mode once they became familiar with the pairs. Thus, at a micro level, people chose to test themselves while studying, at least after learning had reached a certain level (also see Son, 2005)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        71,
+                        642,
+                        269,
+                        653
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                642,
+                                269,
+                                653
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        642,
+                                        269,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "What College Students Do and Do Not Know"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        71,
+                        654,
+                        299,
+                        741
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                654,
+                                299,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        654,
+                                        299,
+                                        741
+                                    ],
+                                    "type": "text",
+                                    "content": "To investigate students' beliefs and strategies in managing their own real- world studying, we administered a brief questionnaire to 472 students enrolled in introductory psychology at UCLA. In response to one very general question—\"Would you say that you study the way that you do because a teacher (or teachers) taught you to study that way?\"—80% of students said \"no\" (see Table 1). Four out of five students in our sample, therefore, had improvised "
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                310,
+                                80,
+                                539,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        80,
+                                        539,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "their method of studying, presumably on the basis of intuition rather than research; such improvisation makes them susceptible to the pitfalls of self- regulated study."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        310,
+                        80,
+                        539,
+                        114
+                    ],
+                    "type": "text",
+                    "lines": [],
+                    "index": 6,
+                    "lines_deleted": true
+                },
+                {
+                    "bbox": [
+                        311,
+                        114,
+                        540,
+                        321
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                114,
+                                540,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": "Spacing study activities. It is clear from students' responses that their study schedules are driven largely by crises, such as an upcoming midterm exam, rather than by systematic decision making. When students were asked how they decided what to study next, "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "59\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": " chose \"Whatever's due soonest/overdue,\" and only "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "11\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": " chose \"I plan my study schedule ahead of time, and I study whatever I've scheduled.\" Similarly, "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "86\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": " of students responded \"no\" when they were asked whether they usually returned to course material to review it after a course had ended—although the ideal answer to this question is yes. The responses of the meager "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "14\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        114,
+                                        540,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": " of students who said \"yes\" may be partly attributable to courses that spanned multiple academic terms. Students' answers to those two questions may raise doubts about their motivation to learn, but if their pressure- driven priorities and activities are not conducive to long- term learning, the fault lies mostly with how we, as educators, structure curricula, requirements, and incentives."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        311,
+                        323,
+                        540,
+                        454
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                323,
+                                540,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": "Interestingly, we did not find support for the prevailing idea that students consider essay and short- answer tests to be harder than multiple- choice tests and therefore study more for such tests. About half the students reported studying \"about the same\" for essay and multiple- choice exams, and the remaining students were split almost evenly between studying more for multiple- choice "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(22\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": " and studying more for essay "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(29\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": " tests. We also found that more students tended to reread the portions of assigned materials that they had earlier underlined or highlighted "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(60\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": " versus rereading entire chapters or articles "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(16\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": " or not rereading at all "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(23\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        323,
+                                        540,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": "."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        311,
+                        456,
+                        540,
+                        620
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                456,
+                                540,
+                                620
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        456,
+                                        540,
+                                        620
+                                    ],
+                                    "type": "text",
+                                    "content": "Self- testing. Overall, the results of our survey suggest that students either do not appreciate the benefits of spacing, or simply do not make choices to mass or space at all but rather attend to whatever is most urgent. With respect to self- testing, on the other hand, students seem more knowledgeable and enthusiastic. When students were asked whether they quizzed themselves while studying (using a quiz at the end of a chapter, a practice quiz, flashcards, or something else) and if so, why, only "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        456,
+                                        540,
+                                        620
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "9\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        456,
+                                        540,
+                                        620
+                                    ],
+                                    "type": "text",
+                                    "content": " chose \"I usually do not quiz myself.\" A large percentage of participants "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        456,
+                                        540,
+                                        620
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(68\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        456,
+                                        540,
+                                        620
+                                    ],
+                                    "type": "text",
+                                    "content": " seemed to realize the metacognitive benefits of testing, because their response to this question was \"to figure out how well I have learned the information I'm studying.\" Interestingly, however, only "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        456,
+                                        540,
+                                        620
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "18\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        456,
+                                        540,
+                                        620
+                                    ],
+                                    "type": "text",
+                                    "content": " thought of testing as a learning event."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        311,
+                        620,
+                        540,
+                        741
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                311,
+                                620,
+                                540,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        620,
+                                        540,
+                                        741
+                                    ],
+                                    "type": "text",
+                                    "content": "Dropping material from further study. Our work on flashcards suggests that people often stop studying something once they feel they know it at the present time, meaning that they often stop too soon. Consistent with that finding, "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        620,
+                                        540,
+                                        741
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "64\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        620,
+                                        540,
+                                        741
+                                    ],
+                                    "type": "text",
+                                    "content": " of students, when asked what they would do if, in the course of studying, they became convinced that they knew the answer to a certain question (e.g., the definition of a term in psychology), responded \"put it aside and focus on other material.\" Perhaps, though, the more surprising finding is that "
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        620,
+                                        540,
+                                        741
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "36\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        311,
+                                        620,
+                                        540,
+                                        741
+                                    ],
+                                    "type": "text",
+                                    "content": " of students chose \"make sure to study (or test yourself on) it later.\""
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        69,
+                        99,
+                        543,
+                        399
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                69,
+                                99,
+                                543,
+                                399
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        99,
+                                        543,
+                                        399
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                69,
+                                                99,
+                                                543,
+                                                399
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Multiple-Choice Questions</td><td>Response Percentages</td></tr><tr><td>Would you say that you study the way you do because a teacher (or teachers) taught you to study that way?</td><td></td></tr><tr><td>Yes</td><td>20%</td></tr><tr><td>No</td><td>80%</td></tr><tr><td>How do you decide what to study next?</td><td></td></tr><tr><td>Whatever&#x27;s due sooner/overdue</td><td>59%</td></tr><tr><td>Whatever I haven&#x27;t studied for the longest time</td><td>4%</td></tr><tr><td>Whatever I find interesting</td><td>4%</td></tr><tr><td>Whatever I feel I&#x27;m doing the worst in</td><td>22%</td></tr><tr><td>I plan my study schedule ahead of time, and I study whatever I&#x27;ve scheduled</td><td>11%</td></tr><tr><td>Do you usually return to course material to review it after a course has ended?</td><td></td></tr><tr><td>Yes</td><td>14%</td></tr><tr><td>No</td><td>86%</td></tr><tr><td>All other things being equal, what do you study more for?</td><td></td></tr><tr><td>Essay/short answer exams</td><td>29%</td></tr><tr><td>Multiple-choice exams</td><td>22%</td></tr><tr><td>About the same</td><td>49%</td></tr><tr><td>When you study, do you typically read a textbook/article/other source material more than once?</td><td></td></tr><tr><td>Yes, I reread whole chapters/articles</td><td>16%</td></tr><tr><td>Yes, I reread sections that I underlined/highlighted/marked</td><td>60%</td></tr><tr><td>Not usually</td><td>23%</td></tr><tr><td>If you quiz yourself while you study (either using a quiz at the end of a chapter, or a practice quiz, or flashcards, or something else), why do you do so?</td><td></td></tr><tr><td>I learn more that way than I would through rereading</td><td>18%</td></tr><tr><td>To figure out how well I have learned the information I&#x27;m studying</td><td>68%</td></tr><tr><td>I find quizzing more enjoyable than rereading</td><td>4%</td></tr><tr><td>I usually do not quiz myself</td><td>9%</td></tr><tr><td>Imagine that in the course of studying, you become convinced that you know the answer to a certain question (e.g., the definition of a term in psychology). What would you do?</td><td></td></tr><tr><td>Make sure to study (or test yourself on) it again later</td><td>36%</td></tr><tr><td>Put it aside and focus on other material</td><td>64%</td></tr></table>",
+                                            "image_path": "d6e734503d27d292f53b614636bac96e7a8efb48073a793298a1a9989fb8447e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                81,
+                                389,
+                                99
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        81,
+                                        389,
+                                        99
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                222,
+                                                81,
+                                                389,
+                                                99
+                                            ],
+                                            "type": "text",
+                                            "content": "Table 1 A Survey of 472 Undergraduates'Study Habits"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_caption"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        71,
+                        420,
+                        173,
+                        430
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                420,
+                                173,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        420,
+                                        173,
+                                        430
+                                    ],
+                                    "type": "text",
+                                    "content": "Concluding Comments"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        71,
+                        431,
+                        299,
+                        540
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                431,
+                                299,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        431,
+                                        299,
+                                        540
+                                    ],
+                                    "type": "text",
+                                    "content": "Our survey findings suggest that, among other things, researchers doing laboratory studies on cognition and education- like the two of us- can lose the perspective of students, who often find themselves making study decisions by triage instead of by trying to maximize long- term learning. Applying research on cognition to education requires focusing on the system level on the relationship between courses, on instructional activities and requirements, and so forth- as well as on what students can and should do on their own to enhance learning."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        71,
+                        541,
+                        299,
+                        672
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                541,
+                                299,
+                                672
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        541,
+                                        299,
+                                        672
+                                    ],
+                                    "type": "text",
+                                    "content": "As Bjork (2001) and others have argued, the key to surviving in an ever more rapidly changing and complex world is learning how to learn. However, the task of becoming a metacognitively sophisticated learner is far from simple; it requires going against certain intuitions and standard practices, having a reasonably accurate mental model of how learning works, and not being misled by short- term performance and certain subjective indices (see Bjork, 1999).An obvious first step in helping students learn how to learn is to teach them how to learn, but only one in five students in our survey reported having been taught study strategiesand those strategies may not have been optimal."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        71,
+                        673,
+                        299,
+                        728
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                673,
+                                299,
+                                728
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        673,
+                                        299,
+                                        728
+                                    ],
+                                    "type": "text",
+                                    "content": "However difficult optimizing one's learning activities may be, doing so has never been more important, given the changing world of education. For the foreseeable future, there will be an increased emphasis on Web- based learning, remote learning, blended courses, and lifelong "
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                310,
+                                420,
+                                540,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        420,
+                                        540,
+                                        441
+                                    ],
+                                    "type": "text",
+                                    "content": "learning, all of which place an increased emphasis on the ability to manage unsupervised learning effectively."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        310,
+                        420,
+                        540,
+                        441
+                    ],
+                    "type": "text",
+                    "lines": [],
+                    "index": 6,
+                    "lines_deleted": true
+                },
+                {
+                    "bbox": [
+                        394,
+                        452,
+                        455,
+                        461
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                394,
+                                452,
+                                455,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        452,
+                                        455,
+                                        461
+                                    ],
+                                    "type": "text",
+                                    "content": "AUTHOR NOTE"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        310,
+                        472,
+                        540,
+                        517
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                472,
+                                540,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        472,
+                                        540,
+                                        517
+                                    ],
+                                    "type": "text",
+                                    "content": "AUTHOR NOTEThis research was supported by Grant 29192G from the McDonnell Foundation. Correspondence concerning this article should be addressed to N. Kornell, Department of Psychology, 1285 Franz Hall, University of California, Los Angeles, CA 90095 (e- mail: nkornell@psych.ucla.edu)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        397,
+                        527,
+                        454,
+                        536
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                397,
+                                527,
+                                454,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        397,
+                                        527,
+                                        454,
+                                        536
+                                    ],
+                                    "type": "text",
+                                    "content": "REFERENCES"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        310,
+                        547,
+                        540,
+                        728
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                547,
+                                540,
+                                728
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        547,
+                                        540,
+                                        728
+                                    ],
+                                    "type": "text",
+                                    "content": "REFERENCESBINJAMIN, A. S., & BIRD, R. (2006). Metacognitive control of the spacing of study repetitions. Journal of Memory & Language, 55, 126- 137. BJORK, R. A. (1975). Retrieval as a memory modifier. In R. Solso (Ed.), Information processing and cognition: The Loyola Symposium (pp. 123- 144). Hillsdale, NJ: Erlbaum.BJORK, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P. Shimamura (Eds.), Metacognition: Knowing about knowing (pp. 185- 205). Cambridge, MA: MIT Press.BJORK, R. A. (1999). Assessing our own competence: Heuristics and illusions. In D. Gopher & A. Koriat (Eds.), Attention and performance XVII: Cognitive regulation of performance. Interaction of theory and application (pp. 435- 459). Cambridge, MA: MIT Press.BJORK, R. A. (2001, March). How to succeed in college: Learn how to learn. APS Observer, 14, 9. CEPEDA, N. J., PASHLER, H., VUL, E., WIXTED, J. T., & ROHRER, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Bulletin, 132, 354- 380. DEMPSTER, F. N. (1988). The spacing effect: A case study in the failure"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        70,
+                        83,
+                        300,
+                        370
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                83,
+                                300,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        83,
+                                        300,
+                                        370
+                                    ],
+                                    "type": "text",
+                                    "content": "to apply the results of psychological research. American Psychologist, 43, 627- 634. DUNLOSKY, J., & NELSON, T. O. (1992). Importance of the kind of cue for judgments of learning (JOL) and the delayed- JOL effect. Memory & Cognition, 20, 374- 380. KORIAT, A., & BJORK, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. Journal of Experimental Psychology: Learning, Memory, & Cognition, 31, 187- 194. KORIAT, A., & BJORK, R. A. (2006a). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34, 959- 972. KORIAT, A., & BJORK, R. A. (2006b). Mending metacognitive illusions: A comparison of mnemonic- based and theory- based procedures. Journal of Experimental Psychology: Learning, Memory, & Cognition, 32, 1133- 1145. KORIAT, A., BJORK, R. A., SHEFFER, L., & BAR, S. K. (2004). Predicting one's own forgetting: The role of experience- based and theory- based processes. Journal of Experimental Psychology: General, 133, 643- 656. KORNELL, N. (2007). Choosing self- testing as a study strategy. Manuscript submitted for publication. KORNELL, N., & BJORK, R. A. (2007a). Abstracting concepts and patterns: Is spacing the \"enemy of induction\"? Unpublished manuscript. KORNELL, N., & BJORK, R. A. (2007b). Optimizing self- regulated study: On the benefits—and costs—of dropping flashcards. Manuscript submitted for publication. KORNELL, N., & METCALFE, J. (2006). Study efficacy and the region of proximal learning framework. Journal of Experimental Psychology: Learning, Memory, & Cognition, 32, 609- 622. LANDAUER, T. K., & BJORK, R. A. (1978). Optimal rehearsal patterns and name learning. In M. M. Gruneberg, P. E. Morris, & R. N. Sykes (Eds.), Practical aspects of memory (pp. 625- 632). London: Academic Press."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        310,
+                        83,
+                        541,
+                        370
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                83,
+                                541,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        83,
+                                        541,
+                                        370
+                                    ],
+                                    "type": "text",
+                                    "content": "METCALFE, J., & KORNELL, N. (2003). The dynamics of learning and allocation of study time to a region of proximal learning. Journal of Experimental Psychology: General, 132, 530- 542. METCALFE, J., & KORNELL, N. (2005). A region of proximal learning model of study time allocation. Journal of Memory & Language, 52, 463- 477. NELSON, T. O., & NARENS, L. (1994). Why investigate metacognition? In J. Metcalfe & A. P. Shimamura (Eds.), Metacognition: Knowing about knowing (pp. 1- 25). Cambridge, MA: MIT Press. ROEDIGER, H. L., III, & KARPICKE, J. D. (2006). Test- enhanced learning: Taking memory tests improves long- term retention. Psychological Science, 17, 249- 255. SIMON, D. A., & BJORK, R. A. (2001). Metacognition in motor learning. Journal of Experimental Psychology: Learning, Memory, & Cognition, 27, 907- 912. SON, L. K. (2004). Spacing one's study: Evidence for a metacognitive control strategy. Journal of Experimental Psychology: Learning, Memory, & Cognition, 30, 601- 604. SON, L. K. (2005). Metacognitive control: Children's short- term versus long- term study strategies. Journal of General Psychology, 132, 347- 363. SON, L. K., & KORNELL, N. (2007). Scheduling study: Time allocation and spacing. Unpublished manuscript. THIEDE, K. W., & DUNLOSKY, J. (1999). Toward a general model of self- regulated study: An analysis of selection of items for study and self- paced study time. Journal of Experimental Psychology: Learning, Memory, & Cognition, 25, 1024- 1037. ZACHMEISTER, E. B., & SHAUGHNESSY, J. J. (1980). When you know that you know and when you think that you know but you don't. Bulletin of the Psychonomic Society, 15, 41- 44."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 5
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.1.9"
+}

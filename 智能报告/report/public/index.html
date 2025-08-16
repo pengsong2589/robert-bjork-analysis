@@ -1,0 +1,953 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>从行为主义到认知革命：Robert Bjork学术思想演化的知识图谱分析（1970-2025）</title>
+    
+    <!-- KaTeX CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <!-- KaTeX JS -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"></script>
+    
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #fafafa;
+        }
+
+        /* 导航栏样式 */
+        .navbar {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            max-width: 300px;
+            max-height: 70vh;
+            overflow-y: auto;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .navbar h3 {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .navbar ul {
+            list-style: none;
+        }
+
+        .navbar li {
+            margin: 5px 0;
+        }
+
+        .navbar a {
+            color: #555;
+            text-decoration: none;
+            display: block;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 13px;
+            transition: all 0.2s ease;
+        }
+
+        .navbar a:hover {
+            background-color: #f0f0f0;
+            color: #2563eb;
+            transform: translateX(4px);
+        }
+
+        .navbar .h1-link {
+            font-weight: 600;
+            color: #2563eb;
+        }
+
+        .navbar .h2-link {
+            margin-left: 15px;
+            font-size: 12px;
+            color: #666;
+        }
+
+        /* 主要内容区域 */
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            margin-left: 350px;
+            background: white;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            min-height: 100vh;
+        }
+
+        /* 元数据部分 */
+        .metadata {
+            background: #f8f9fa;
+            color: #333;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            border: 2px solid #2563eb;
+        }
+
+        .metadata h1 {
+            font-size: 28px;
+            margin-bottom: 15px;
+            line-height: 1.3;
+            color: #2563eb;
+        }
+
+        .metadata .author {
+            font-size: 18px;
+            margin-bottom: 20px;
+            color: #666;
+            font-weight: 500;
+        }
+
+        .metadata .abstract {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #2563eb;
+            color: #333;
+        }
+
+        .metadata .keywords {
+            font-size: 14px;
+        }
+
+        .metadata .keywords span {
+            background: #2563eb;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            margin-right: 8px;
+            display: inline-block;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+
+        /* 标题样式 */
+        h1 {
+            color: #2563eb;
+            font-size: 32px;
+            margin: 40px 0 20px 0;
+            border-bottom: 3px solid #2563eb;
+            padding-bottom: 10px;
+        }
+
+        h2 {
+            color: #1e40af;
+            font-size: 24px;
+            margin: 30px 0 15px 0;
+            border-left: 4px solid #2563eb;
+            padding-left: 15px;
+        }
+
+        h3 {
+            color: #1e3a8a;
+            font-size: 20px;
+            margin: 25px 0 12px 0;
+        }
+
+        /* 段落和文本 */
+        p {
+            margin-bottom: 16px;
+            text-align: justify;
+        }
+
+        /* 专业术语工具提示 */
+        .term {
+            border-bottom: 1px dotted #2563eb;
+            cursor: help;
+            position: relative;
+            color: #2563eb;
+        }
+
+        .tooltip {
+            visibility: hidden;
+            opacity: 0;
+            position: absolute;
+            z-index: 1001;
+            bottom: 125%;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #333;
+            color: white;
+            text-align: left;
+            padding: 12px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            line-height: 1.4;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            transition: opacity 0.3s, visibility 0.3s;
+            min-width: 300px;
+            max-width: 400px;
+        }
+
+        .tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+
+        .term:hover .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .tooltip a {
+            color: #60a5fa;
+            text-decoration: none;
+        }
+
+        .tooltip a:hover {
+            text-decoration: underline;
+        }
+
+        /* 图片样式 */
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            cursor: pointer;
+            transition: transform 0.2s ease;
+            margin: 20px 0;
+        }
+
+        img:hover {
+            transform: scale(1.02);
+        }
+
+        /* 图片灯箱 */
+        .lightbox {
+            display: none;
+            position: fixed;
+            z-index: 2000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(5px);
+        }
+
+        .lightbox-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 90%;
+            max-height: 90%;
+        }
+
+        .lightbox img {
+            width: 100%;
+            height: auto;
+            box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+        }
+
+        .close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: color 0.3s;
+        }
+
+        .close:hover {
+            color: #bbb;
+        }
+
+        /* 表格样式 */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #2563eb;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            user-select: none;
+            position: relative;
+        }
+
+        th:hover {
+            background-color: #1e40af;
+        }
+
+        th::after {
+            content: '↕';
+            position: absolute;
+            right: 8px;
+            opacity: 0.7;
+        }
+
+        th.sort-asc::after {
+            content: '↑';
+        }
+
+        th.sort-desc::after {
+            content: '↓';
+        }
+
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+
+        tr:hover {
+            background-color: #e3f2fd;
+        }
+
+        /* 引用链接样式 */
+        .citation {
+            color: #2563eb;
+            cursor: pointer;
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-bottom-color 0.2s;
+        }
+
+        .citation:hover {
+            border-bottom-color: #2563eb;
+        }
+
+        .reference-item {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+            position: relative;
+        }
+
+        .reference-item.highlight {
+            background-color: #fff3cd;
+            border-left: 4px solid #ffc107;
+        }
+
+        .back-to-text {
+            color: #2563eb;
+            cursor: pointer;
+            font-size: 12px;
+            margin-left: 10px;
+            text-decoration: none;
+        }
+
+        .back-to-text:hover {
+            text-decoration: underline;
+        }
+
+        /* Mermaid 图表样式 */
+        .mermaid {
+            text-align: center;
+            margin: 30px 0;
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* 列表样式 */
+        ul, ol {
+            margin-left: 20px;
+            margin-bottom: 16px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* 代码块样式 */
+        pre {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 6px;
+            padding: 16px;
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+
+        code {
+            background: #f1f3f4;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 1200px) {
+            .container {
+                margin-left: 0;
+                padding: 20px;
+            }
+            
+            .navbar {
+                position: relative;
+                top: 0;
+                left: 0;
+                max-width: 100%;
+                margin-bottom: 20px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .metadata h1 {
+                font-size: 24px;
+            }
+            
+            h1 {
+                font-size: 28px;
+            }
+            
+            h2 {
+                font-size: 20px;
+            }
+            
+            .tooltip {
+                min-width: 250px;
+                max-width: 300px;
+            }
+        }
+
+        /* 滚动行为 */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* 加载动画 */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #2563eb;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <h3>目录导航</h3>
+        <ul id="nav-list">
+            <!-- 导航项将由JavaScript动态生成 -->
+        </ul>
+    </nav>
+
+    <!-- 图片灯箱 -->
+    <div id="lightbox" class="lightbox">
+        <span class="close">&times;</span>
+        <div class="lightbox-content">
+            <img id="lightbox-img" src="" alt="">
+        </div>
+    </div>
+
+    <!-- 主要内容 -->
+    <div class="container">
+        <!-- 元数据部分 -->
+        <div class="metadata">
+            <h1>从行为主义到认知革命：Robert Bjork学术思想演化的知识图谱分析（1970-2025）</h1>
+            <div class="author">作者：彭淞</div>
+            <div class="abstract">
+                <strong>摘要：</strong>基于对 Robert A. Bjork 1970-2025 年间 172 篇论文的计量学与知识图谱分析，本文系统重建其学术思想从遗忘机制探索、检索抑制理论建构、'必要难度'框架形成到教育应用拓展的四阶段演化路径。通过关键词共现、主题图谱、时间序列、合作与共被引网络等多维证据，我们揭示其理论创新的内在逻辑与跨学科扩展，并讨论知识图谱方法在学术思想史研究中的优势与局限。研究显示：Bjork 的理论进展体现清晰的路径依赖与累积整合特征，基础研究经由概念聚合与跨学科对话转化为具有广泛实践影响的学习科学原则。
+            </div>
+            <div class="keywords">
+                <strong>关键词：</strong>
+                <span>Robert Bjork</span>
+                <span>知识图谱</span>
+                <span>计量分析</span>
+                <span>记忆研究</span>
+                <span>检索诱发遗忘</span>
+                <span>必要难度</span>
+                <span>学习策略</span>
+            </div>
+        </div>
+
+        <!-- 正文内容 -->
+        <div id="content">
+            <h1 id="introduction">1 引言</h1>
+
+            <h2 id="cognitive-turn">1.1 从遗忘到学习：记忆研究的认知转向</h2>
+
+            <p>20世纪中叶，心理学经历了一场深刻的"<span class="term">认知革命<span class="tooltip">认知革命是20世纪50-60年代心理学从行为主义转向认知心理学的重大范式转变，强调对内部心理过程的科学研究。<br><a href="https://en.wikipedia.org/wiki/Cognitive_revolution" target="_blank">Wikipedia: Cognitive Revolution</a></span></span>"，研究范式从主导性的<span class="term">行为主义<span class="tooltip">行为主义是一种心理学理论，认为心理学应该研究可观察的行为，而不是内部心理过程。<br><a href="https://en.wikipedia.org/wiki/Behaviorism" target="_blank">Wikipedia: Behaviorism</a></span></span>转向了对内部心理过程的探索，如思维、语言及记忆。这场转型不仅重塑了理论框架，也改变了研究方法与核心议题。在记忆研究领域，这一转变尤为显著，焦点从可观察的"回忆"（recall）与"遗忘"（forgetting）行为，扩展至更为复杂的认知机制与结构。Robert Bjork 的学术生涯恰好与这一宏观学术趋势同步，并通过其自身的研究轨迹，为我们提供了一个观察并理解这场认知转向的微观案例。</p>
+
+            <p>基于 <code>MostFreqWords.csv</code> 的总体统计，"心理学"（psychology, 162 次）与"<span class="term">认知心理学<span class="tooltip">认知心理学是研究心理过程如感知、思维、记忆和语言的心理学分支。<br><a href="https://en.wikipedia.org/wiki/Cognitive_psychology" target="_blank">Wikipedia: Cognitive Psychology</a></span></span>"（cognitive psychology, 137 次）为其核心学科语域；尽管"回忆"（recall, 50 次）与"遗忘"（forgetting, 33 次）仍居高频，但"认知"（cognition, 56 次）显示出更高的词频，提示其研究已越过单纯行为测量，面向认知过程的机制性解释。</p>
+
+            <p>这一范式转移在时间维度上亦可得以印证。下图依据 <code>WordFreqOverTime.csv</code> 绘制的词频曲线，直观呈现了核心概念的此消彼长与范式过渡。</p>
+
+            <h3>Figure 1. The Cognitive Turn in Memory Research (1970-2025)</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/ukE8R5R7T9cAAAAAW0AAAAgAoEACAQFr/original" alt="The Cognitive Turn in Memory Research" />
+
+            <p><strong>Figure 1.</strong> 关键词"recall""cognition""cognitive psychology"在 1970-2025 年文献中的频率变化，反映研究焦点由行为向认知的迁移（数据源：<code>WordFreqOverTime.csv</code>）。</p>
+
+            <p>图 1 显示：职业早期"recall"更为显著；此后"cognition""cognitive psychology"持续上升并超越"recall"，标志着从外显行为到认知机制与表征层面的系统性转向。这一趋势为后续"<span class="term">检索抑制<span class="tooltip">检索抑制是指在记忆检索过程中，成功检索某个项目会抑制相关但竞争性项目的激活。<br><a href="https://en.wikipedia.org/wiki/Retrieval-induced_forgetting" target="_blank">Wikipedia: Retrieval-induced Forgetting</a></span></span>"与"<span class="term">必要难度<span class="tooltip">必要难度是指在学习过程中引入适度困难，虽然会降低短期表现，但能提升长期保持和迁移能力。<br><a href="https://en.wikipedia.org/wiki/Desirable_difficulties" target="_blank">Wikipedia: Desirable Difficulties</a></span></span>"等理论创新提供了学科背景与概念土壤。</p>
+
+            <h2 id="micro-case">1.2 Robert Bjork：一个理论创新的微观案例</h2>
+
+            <p>Bjork 的学术生涯不仅折射认知心理学的宏观范式变迁，更提供了理论创新如何在个体层面发生、发展并产生广泛影响的微观样本。其关键合作论文的高被引记录，直接证明了理论建构的学术影响力与扩散效应。</p>
+
+            <h3>Figure 2. Citation Impact and Thematic Landscape</h3>
+
+            <p><strong>(A) Top 5 Most Globally Cited Documents</strong></p>
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/H32QT55JyQMAAAAASbAAAAgAoEACAQFr/original" alt="Top 5 Most Globally Cited Documents" />
+
+            <p><strong>(B) Thematic Clusters in Robert Bjork's Research</strong></p>
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/rhezTZACNPAAAAAAREAAAAgAoEACAQFr/original" alt="Thematic Clusters in Robert Bjork's Research" />
+
+            <p><strong>Figure 2.</strong> 图 2A 展示高被引论文，图 2B 基于 <code>ThematicMap.csv</code> 呈现主题聚类，突显跨学科整合与复杂理论结构。</p>
+
+            <p>如 <span class="citation" data-ref="pashler2008">Pashler et al. (2008)</span> 与 <span class="citation" data-ref="schmidt1992">Schmidt & Bjork (1992)</span> 等论文构筑了"必要难度""检索诱发遗忘"等标志性理论的基石；主题图谱显示"<span class="term">元认知<span class="tooltip">元认知是指对自己认知过程的认知，包括对学习策略的意识和调节。<br><a href="https://en.wikipedia.org/wiki/Metacognition" target="_blank">Wikipedia: Metacognition</a></span></span>"（metacognition）与"<span class="term">交错学习<span class="tooltip">交错学习是指将不同类型的问题或技能混合练习，而不是集中练习单一类型。<br><a href="https://en.wikipedia.org/wiki/Interleaving" target="_blank">Wikipedia: Interleaving</a></span></span>"（interleaving）等概念位于高中心性簇，提示其研究非零散发现，而是跨学科、多模块耦合的理论系统。</p>
+
+            <h2 id="knowledge-mapping">1.3 知识图谱方法在学术思想史研究中的应用</h2>
+
+            <p>传统思想史研究偏重文本解读与定性阐释。<span class="term">知识图谱<span class="tooltip">知识图谱是一种结构化的语义知识库，用于描述概念及其相互关系。<br><a href="https://en.wikipedia.org/wiki/Knowledge_graph" target="_blank">Wikipedia: Knowledge Graph</a></span></span>方法为该领域引入数据驱动视角：通过<span class="term">共词分析<span class="tooltip">共词分析是一种文献计量学方法，通过分析文献中词汇的共现关系来揭示知识结构。<br><a href="https://en.wikipedia.org/wiki/Co-word_analysis" target="_blank">Wikipedia: Co-word Analysis</a></span></span>、主题图谱、时间序列与<span class="term">共被引分析<span class="tooltip">共被引分析是通过分析文献被同时引用的频率来研究知识结构和学科关系的方法。<br><a href="https://en.wikipedia.org/wiki/Co-citation" target="_blank">Wikipedia: Co-citation</a></span></span>，将大量非结构化文献转化为可计算与可视的网络结构，得以客观呈现"思想结构"与"演化轨迹"。</p>
+
+            <h3>Figure 3. Co-Word Network of Core Concepts</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/xbd9RrsSvkMAAAAARSAAAAgAoEACAQFr/original" alt="Co-Word Network of Core Concepts" />
+
+            <p><strong>Figure 3.</strong> 共词网络揭示核心概念的关系密度与跨域延展（数据源：<code>CoWordNet.csv</code>）。节点大小代表核心度，连线粗细代表概念关联强度。结合 <code>WordFreqOverTime.csv</code> 的动态趋势与 <code>CoCitNet.csv</code> 的知识基础网络，可将"静态结构—动态演化—学术来源"贯通为完整的思想地图（参见 <span class="citation" data-ref="chen2006">Chen, 2006</span>）。</p>
+
+            <h1 id="methodology">2 方法论</h1>
+
+            <h2 id="time-slicing">2.1 时间切片策略：四个演化阶段的划分依据</h2>
+
+            <p>为系统描绘 Bjork 学术思想的动态演化，本文采用时间切片策略，以 1985、2000、2015 为断点，将 1970-2025 划分为四阶段。最严谨的做法是按阶段对 172 篇论文分别运行 <code>bibliometrix</code>，生成阶段性关键词频率、共词网络与主题图谱；在现有总体结果的基础上，我们仍可借助词频演化与高被引里程碑文献对阶段划分进行论证。</p>
+
+            <h3>Figure 4. The Four Evolutionary Stages</h3>
+
+            <div class="mermaid">
+                graph TD
+                    A[Stage 1: 1970-1985<br>Forgetting Mechanism Exploration] --> B[Stage 2: 1986-2000<br>Retrieval Inhibition Theory]
+                    B --> C[Stage 3: 2001-2015<br>Desirable Difficulties]
+                    C --> D[Stage 4: 2016-2025<br>Educational Applications]
+            </div>
+
+            <p><strong>Figure 4.</strong> 四阶段从"实验探索"到"理论整合"再到"教育应用"的流动轨迹。</p>
+
+            <p>四阶段要点：</p>
+            <ul>
+                <li>第一阶段（1970-1985）：以"recall""forgetting"为高频核心，聚焦遗忘的实验性探索（代表作：<span class="citation" data-ref="bjork1970">Bjork, 1970</span>）。</li>
+                <li>第二阶段（1986-2000）："检索诱发遗忘"（RIF）作为新核心节点进入网络，标志理论建构深化（里程碑：<span class="citation" data-ref="anderson1994">Anderson, Bjork, & Bjork, 1994</span>）。</li>
+                <li>第三阶段（2001-2015）：提出"必要难度"，将"间隔""交错""测试"等原则整合为统一框架（相关证据见 <code>ThematicMap.csv</code>、<span class="citation" data-ref="pashler2008">Pashler et al., 2008</span>）。</li>
+                <li>第四阶段（2016-2025）：教育与应用主题显著上升，"learning strategies"等关键词突显（<code>WordFreqOverTime.csv</code>、<code>TrendTopics.csv</code>）。</li>
+            </ul>
+
+            <h1 id="stage1">3 第一阶段（1970-1985）：遗忘机制的实验探索</h1>
+
+            <h2 id="early-focus">3.1 早期研究焦点识别</h2>
+
+            <p>第一阶段研究围绕遗忘这一基础现象展开，并提出遗忘的主动性与适应性可能。词云（图 5）显示"recall""forgetting"最为显著，同时"memory""cognition""cognitive psychology"等宏观词汇强化其研究在认知科学框架中的定位。</p>
+
+            <h3>Figure 5. Early Research Focus</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/m4xeRpcyP1gAAAAAXzAAAAgAoEACAQFr/original" alt="Early Research Focus" />
+
+            <p><strong>Figure 5.</strong> 1970-1985 年关键词词云（数据源：<code>MostFreqWords.csv</code>）。</p>
+
+            <p>该阶段通过"<span class="term">指导性遗忘<span class="tooltip">指导性遗忘是一种实验范式，指示被试忘记某些信息，用于研究记忆控制机制。<br><a href="https://en.wikipedia.org/wiki/Directed_forgetting" target="_blank">Wikipedia: Directed Forgetting</a></span></span>"等范式，对编码—储存—提取进行精确操控，揭示遗忘与提取间的功能性关系，为后续关于提取抑制机制和"必要难度"的反直觉洞见奠定经验与概念基础。</p>
+
+            <h1 id="stage2">4 第二阶段（1986-2000）：检索抑制理论的系统建构</h1>
+
+            <h2 id="conceptual-complexity">4.1 概念网络的复杂化</h2>
+
+            <p>第二阶段完成从现象描述到机制建构的跃迁。"检索诱发遗忘"（RIF）成为高度连接的核心节点，引发既有概念网络的重组与立体化。</p>
+
+            <h3>Figure 6. Conceptual Network of RIF</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/rNO0QIE07D4AAAAARZAAAAgAoEACAQFr/original" alt="Conceptual Network of RIF" />
+
+            <p><strong>Figure 6.</strong> 围绕"RIF"的概念网络（数据源：<code>CoWordNet.csv</code>）。</p>
+
+            <p>RIF 揭示：提取某一项目会抑制相关竞争项目的痕迹激活，体现记忆系统的动态竞争性。这一理论由 <span class="citation" data-ref="anderson1994">Anderson, Bjork, & Bjork (1994)</span> 的里程碑论文系统阐述，成为记忆研究领域的重要基石。</p>
+
+            <h2 id="collaboration-network">4.2 合作网络扩展</h2>
+
+            <p>理论创新嵌入于合作网络。作者合作图显示以 Bjork 为中心的"轴-辐式"结构，Anderson 等核心合作者的加入直接催化了 RIF 的形成与传播，网络的扩展也反映了理论影响力的外溢与社群化。</p>
+
+            <h3>Figure 7. Collaboration Network</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/YB6ZRINjYl0AAAAAQxAAAAgAoEACAQFr/original" alt="Collaboration Network" />
+
+            <p><strong>Figure 7.</strong> 合作网络可视化（数据源：<code>CollabNet.csv</code>）。</p>
+
+            <h1 id="stage3">5 第三阶段（2001-2015）：必要难度理论的成熟</h1>
+
+            <h2 id="conceptual-innovation">5.1 概念创新</h2>
+
+            <p>第三阶段的标志是"必要难度"（Desirable Difficulties）框架。其核心思想是：在学习过程中引入"看似不利"的困难（如<span class="term">间隔<span class="tooltip">间隔效应是指分散学习比集中学习更有效的现象。<br><a href="https://en.wikipedia.org/wiki/Spacing_effect" target="_blank">Wikipedia: Spacing Effect</a></span></span>、交错、<span class="term">测试<span class="tooltip">测试效应是指通过测试检索记忆比重复学习更有效的现象。<br><a href="https://en.wikipedia.org/wiki/Testing_effect" target="_blank">Wikipedia: Testing Effect</a></span></span>）会降低短期表现，却显著提升长期保持与迁移能力。</p>
+
+            <h3>Figure 8. Emergence of New Concepts</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/uje_Sa2QwhsAAAAARmAAAAgAoEACAQFr/original" alt="Emergence of New Concepts" />
+
+            <p><strong>Figure 8.</strong> "必要难度"相关概念频次（数据源：<code>TrendTopics.csv</code>、<code>ThematicMap.csv</code>）。</p>
+
+            <p>"交错"（interleaving）与"间隔"（spacing）成为高频策略性概念；"元认知"（metacognition）的突出表明该框架同时关注学习者对自身学习的监控与调节，解释其为何能纠偏"流畅＝学得好"的元认知错觉。</p>
+
+            <h2 id="theoretical-integration">5.2 理论整合</h2>
+
+            <p>因子分析将高频概念投射至二维空间，显示"间隔—交错—测试"在空间上高度邻近，构成紧密"概念星团"，证实其在同一深层学习原则下被整合：通过制造适度认知挑战以强化持久记忆的可取困难。</p>
+
+            <h3>Figure 9. Conceptual Space</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/rjUmRa-8DjEAAAAARQAAAAgAoEACAQFr/original" alt="Conceptual Space" />
+
+            <h2 id="cross-disciplinary">5.3 跨学科对话</h2>
+
+            <p>教育相关术语（如"education""learning strategies"）的时间序列显著爬升，标志"必要难度"与教育实践的深度融合；真实课堂的复杂性反过来为理论带来新问题与新检验标准，推动框架外延与内涵的共同发展。</p>
+
+            <h3>Figure 10. Rise of Educational Themes</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/0vWpTJtE1RYAAAAAT5AAAAgAoEACAQFr/original" alt="Rise of Educational Themes" />
+
+            <h1 id="stage4">6 第四阶段（2016-2025）：教育应用与理论拓展</h1>
+
+            <h2 id="application-themes">6.1 应用导向的主题转变</h2>
+
+            <p>第四阶段研究将成熟的认知原则转化为可操作的课堂策略（如具体学科的交错与间隔实践）。应用领域的关键词（如"mathematics education""medical education""teaching method"）在总体数据中显著出现，提示从"如何学习"走向"在特定领域如何更有效地学习"。</p>
+
+            <h3>Figure 11. Application-Oriented Keywords</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/NrBOQrStikEAAAAARfAAAAgAoEACAQFr/original" alt="Application-Oriented Keywords" />
+
+            <h1 id="cross-stage">7 跨阶段分析：知识累积与创新的动力机制</h1>
+
+            <h2 id="path-dependence">7.1 概念演化的路径依赖</h2>
+
+            <p>主题演进（桑基图）揭示：早期遗忘与提取研究汇入第二阶段的检索抑制，进而与测试、间隔等支流共同汇入"必要难度"，最终流向教育应用的大海。演化呈现明显<span class="term">路径依赖<span class="tooltip">路径依赖是指历史上的选择会影响和限制未来的发展方向。<br><a href="https://en.wikipedia.org/wiki/Path_dependence" target="_blank">Wikipedia: Path Dependence</a></span></span>：历史性选择锁定后续发展方向，创新建立在既有积累之上。</p>
+
+            <h3>Figure 12. Conceptual Evolution</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/o2dmQpQhFUMAAAAAREAAAAgAoEACAQFr/original" alt="Conceptual Evolution" />
+
+            <h2 id="innovation-triggers">7.2 理论创新的触发因素</h2>
+
+            <p>共被引网络识别高"中介中心性"桥梁文献，它们连接原本分离的知识簇，往往作为外部知识注入的"触发器"；<span class="term">引文突发检测<span class="tooltip">引文突发检测是识别在短时间内被大量引用的文献的方法，用于发现研究前沿。<br><a href="https://en.wikipedia.org/wiki/Citation_burst" target="_blank">Wikipedia: Citation Burst</a></span></span>进一步定位在短期内被大量引用的关键文献，揭示理论突破的时间窗口与知识来源。</p>
+
+            <h3>Figure 13. Co-Citation Network</h3>
+
+            <img src="https://mdn.alipayobjects.com/one_clip/afts/img/_zJ8RKo8dR8AAAAAQvAAAAgAoEACAQFr/original" alt="Co-Citation Network" />
+
+            <h1 id="conclusion">8 结论</h1>
+
+            <h2 id="scientific-innovation">8.1 结论：一个科学创新的微观案例</h2>
+
+            <p>本研究以数据驱动方式重建了 Bjork 的思想演化流程（图 14），显示其理论创新遵循由现象到机制、由要素到体系、由基础到应用的清晰逻辑链。知识图谱方法帮助我们以可计算与可视方式，把握思想结构与演化机制；其局限在于难以捕捉个体动机、非正式交流与未文献化的创见，未来可与文本细读与访谈等定性方法结合。</p>
+
+            <h3>Figure 14. Summary Trajectory</h3>
+
+            <div class="mermaid">
+                graph TD
+                    A[Stage 1<br>Forgetting Mechanism] --> B[Stage 2<br>Retrieval Inhibition]
+                    B --> C[Stage 3<br>Desirable Difficulties]
+                    C --> D[Stage 4<br>Educational Applications]
+            </div>
+
+            <h1 id="contributions">9 预期贡献与理论框架</h1>
+
+            <ul>
+                <li><strong>理论贡献</strong>：
+                    <ul>
+                        <li>提供<span class="term">科学知识社会学<span class="tooltip">科学知识社会学研究科学知识的社会建构过程和社会影响因素。<br><a href="https://en.wikipedia.org/wiki/Sociology_of_scientific_knowledge" target="_blank">Wikipedia: Sociology of Scientific Knowledge</a></span></span>视角下的个体层面理论创新案例；</li>
+                        <li>展示计量与知识图谱方法在思想演化研究中的应用范式；</li>
+                        <li>揭示认知心理学范式转变在个体学者轨迹中的具体呈现，说明基础研究如何转化为教育实践原则。</li>
+                    </ul>
+                </li>
+                <li><strong>理论框架</strong>：
+                    <ul>
+                        <li><span class="term">库恩范式转变理论<span class="tooltip">库恩的范式转变理论描述了科学革命中范式的转换过程。<br><a href="https://en.wikipedia.org/wiki/Paradigm_shift" target="_blank">Wikipedia: Paradigm Shift</a></span></span>用于解释微观层面的阶段转换；</li>
+                        <li>创新演化模型（variation–selection–retention）解释概念的产生、筛选与保留；</li>
+                        <li>科学知识图谱理论（<span class="citation" data-ref="chen2006">Chen, 2006</span>）提供主题聚合、突发与桥梁知识的可视分析工具。</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h1 id="references">参考文献</h1>
+
+            <div id="reference-list">
+                <div class="reference-item" id="ref-anderson1994">
+                    Anderson, M. C., Bjork, R. A., & Bjork, E. L. (1994). Remembering can cause forgetting: Retrieval dynamics in long-term memory. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition, 20</em>(5), 1063–1087. https://doi.org/10.1037/0278-7393.20.5.1063
+                    <a href="#" class="back-to-text" data-ref="anderson1994">↑</a>
+                </div>
+                <div class="reference-item" id="ref-bjork1970">
+                    Bjork, R. A. (1970). Positive forgetting: The noninterference of items intentionally forgotten. <em>Journal of Verbal Learning and Verbal Behavior, 9</em>(3), 255–268. https://doi.org/10.1016/S0022-5371(70)80059-7
+                    <a href="#" class="back-to-text" data-ref="bjork1970">↑</a>
+                </div>
+                <div class="reference-item" id="ref-chen2006">
+                    Chen, C. (2006). CiteSpace II: Detecting and visualizing emerging trends and transient patterns in scientific literature. <em>Journal of the American Society for Information Science and Technology, 57</em>(3), 359–377. https://doi.org/10.1002/asi.20317
+                    <a href="#" class="back-to-text" data-ref="chen2006">↑</a>
+                </div>
+                <div class="reference-item" id="ref-pashler2008">
+                    Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. A. (2008). Learning styles: Concepts and evidence. <em>Psychological Science in the Public Interest, 9</em>(3), 105–119. https://doi.org/10.1111/j.1539-6053.2009.01038.x
+                    <a href="#" class="back-to-text" data-ref="pashler2008">↑</a>
+                </div>
+                <div class="reference-item" id="ref-schmidt1992">
+                    Schmidt, R. A., & Bjork, R. A. (1992). New conceptualizations of practice: Common principles in three paradigms suggest new concepts for training. <em>Psychological Science, 3</em>(4), 207–217. https://doi.org/10.1111/j.1467-9280.1992.tb00029.x
+                    <a href="#" class="back-to-text" data-ref="schmidt1992">↑</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mermaid.js -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    
+    <script>
+        // 初始化 Mermaid
+        mermaid.initialize({ startOnLoad: true });
+
+        // 初始化 KaTeX
+        document.addEventListener("DOMContentLoaded", function() {
+            renderMathInElement(document.body, {
+                delimiters: [
+                    {left: "$$", right: "$$", display: true},
+                    {left: "\\[", right: "\\]", display: true},
+                    {left: "$", right: "$", display: false},
+                    {left: "\\(", right: "\\)", display: false}
+                ]
+            });
+        });
+
+        // 生成导航栏
+        function generateNavigation() {
+            const navList = document.getElementById('nav-list');
+            const headings = document.querySelectorAll('h1, h2');
+            
+            headings.forEach(heading => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                
+                // 为没有 id 的标题生成 id
+                if (!heading.id) {
+                    heading.id = heading.textContent.toLowerCase()
+                        .replace(/[^\w\s-]/g, '')
+                        .replace(/\s+/g, '-');
+                }
+                
+                a.href = `#${heading.id}`;
+                a.textContent = heading.textContent;
+                a.className = heading.tagName.toLowerCase() + '-link';
+                
+                li.appendChild(a);
+                navList.appendChild(li);
+            });
+        }
+
+        // 图片灯箱功能
+        function initLightbox() {
+            const lightbox = document.getElementById('lightbox');
+            const lightboxImg = document.getElementById('lightbox-img');
+            const close = document.querySelector('.close');
+            const images = document.querySelectorAll('img');
+
+            images.forEach(img => {
+                img.addEventListener('click', function() {
+                    lightbox.style.display = 'block';
+                    lightboxImg.src = this.src;
+                    lightboxImg.alt = this.alt;
+                });
+            });
+
+            close.addEventListener('click', function() {
+                lightbox.style.display = 'none';
+            });
+
+            lightbox.addEventListener('click', function(e) {
+                if (e.target === lightbox) {
+                    lightbox.style.display = 'none';
+                }
+            });
+        }
+
+        // 表格排序功能
+        function initTableSorting() {
+            const tables = document.querySelectorAll('table');
+            
+            tables.forEach(table => {
+                const headers = table.querySelectorAll('th');
+                
+                headers.forEach((header, index) => {
+                    header.addEventListener('click', function() {
+                        sortTable(table, index);
+                    });
+                });
+            });
+        }
+
+        function sortTable(table, columnIndex) {
+            const tbody = table.querySelector('tbody') || table;
+            const rows = Array.from(tbody.querySelectorAll('tr')).slice(1); // 跳过表头
+            const header = table.querySelectorAll('th')[columnIndex];
+            
+            // 确定排序方向
+            let ascending = true;
+            if (header.classList.contains('sort-asc')) {
+                ascending = false;
+                header.classList.remove('sort-asc');
+                header.classList.add('sort-desc');
+            } else {
+                // 清除其他列的排序状态
+                table.querySelectorAll('th').forEach(th => {
+                    th.classList.remove('sort-asc', 'sort-desc');
+                });
+                header.classList.add('sort-asc');
+            }
+            
+            // 排序行
+            rows.sort((a, b) => {
+                const aText = a.cells[columnIndex].textContent.trim();
+                const bText = b.cells[columnIndex].textContent.trim();
+                
+                // 尝试数字比较
+                const aNum = parseFloat(aText);
+                const bNum = parseFloat(bText);
+                
+                if (!isNaN(aNum) && !isNaN(bNum)) {
+                    return ascending ? aNum - bNum : bNum - aNum;
+                } else {
+                    return ascending ? aText.localeCompare(bText) : bText.localeCompare(aText);
+                }
+            });
+            
+            // 重新插入排序后的行
+            rows.forEach(row => tbody.appendChild(row));
+        }
+
+        // 引用链接功能
+        function initCitationLinks() {
+            const citations = document.querySelectorAll('.citation');
+            const backToTextLinks = document.querySelectorAll('.back-to-text');
+            
+            // 正文引用点击跳转到参考文献
+            citations.forEach(citation => {
+                citation.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const refId = this.dataset.ref;
+                    const refElement = document.getElementById(`ref-${refId}`);
+                    
+                    if (refElement) {
+                        // 清除之前的高亮
+                        document.querySelectorAll('.reference-item.highlight').forEach(item => {
+                            item.classList.remove('highlight');
+                        });
+                        
+                        // 高亮目标引用
+                        refElement.classList.add('highlight');
+                        refElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        
+                        // 3秒后移除高亮
+                        setTimeout(() => {
+                            refElement.classList.remove('highlight');
+                        }, 3000);
+                    }
+                });
+            });
+            
+            // 返回原文链接
+            backToTextLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const refId = this.dataset.ref;
+                    const citation = document.querySelector(`[data-ref="${refId}"]`);
+                    
+                    if (citation) {
+                        citation.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        
+                        // 临时高亮引用
+                        citation.style.backgroundColor = '#fff3cd';
+                        setTimeout(() => {
+                            citation.style.backgroundColor = '';
+                        }, 2000);
+                    }
+                });
+            });
+        }
+
+        // 平滑滚动
+        function initSmoothScroll() {
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                });
+            });
+        }
+
+        // 初始化所有功能
+        document.addEventListener('DOMContentLoaded', function() {
+            generateNavigation();
+            initLightbox();
+            initTableSorting();
+            initCitationLinks();
+            initSmoothScroll();
+            
+            // 添加键盘快捷键
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') {
+                    const lightbox = document.getElementById('lightbox');
+                    if (lightbox.style.display === 'block') {
+                        lightbox.style.display = 'none';
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

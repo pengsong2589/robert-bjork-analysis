@@ -1,0 +1,2554 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        85,
+                        92,
+                        423,
+                        107
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                92,
+                                423,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        92,
+                                        423,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "The Spacing Effect: Consolidation or Differential Encoding?"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        161,
+                        118,
+                        352,
+                        146
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                161,
+                                118,
+                                352,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        161,
+                                        118,
+                                        352,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "ROBERT A. BJORK AND TED W. ALLEN  University of Michigan, Ann Arbor, Michigan 48104"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        92,
+                        163,
+                        414,
+                        264
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                163,
+                                414,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        163,
+                                        414,
+                                        264
+                                    ],
+                                    "type": "text",
+                                    "content": "Theoretical explanations of the spacing effect fall into two classes: those that attribute the advantage of two spaced presentations over two massed presentations to better consolidation of the first presentation, and those that attribute the advantage to better encoding of the second presentation. This paper reports an experimental test of the two classes of theory. Rather than manipulate spacing, the experiment varied the information processing difficulty of the activity interpolated between two presentations of an item. Consolidation- type theories imply decreasing consolidation with increasing difficulty of the interpolated activity. In fact, recall performance following two presentations separated by a difficult task was found to be slightly but consistently better than performance following two presentations separated by an easy task. The outcome thus favors encoding- type theories."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        53,
+                        284,
+                        246,
+                        380
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                284,
+                                246,
+                                380
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        284,
+                                        246,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "There is evidence from a variety of paradigms that the spacing of repetitions of an item has large and relatively clear effects on both latency and frequency measures of performance (for a review, see Bjork, 1970). Of these effects, the largest and most general is that recall tends to improve with the spacing of repetitions of an item."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        53,
+                        382,
+                        246,
+                        501
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                382,
+                                246,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        382,
+                                        246,
+                                        501
+                                    ],
+                                    "type": "text",
+                                    "content": "A profusion of different models has been proposed to explain the improvement in recall performance that results from increased spacing of presentations. These explanations fall into two classes. One class of explanations attributes the spacing effect to an assumed consolidation process of some kind that occurs during the interval between presentations. The longer the interval between presentations, the greater the consolidation of the"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        52,
+                        503,
+                        246,
+                        633
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                503,
+                                246,
+                                633
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        503,
+                                        246,
+                                        633
+                                    ],
+                                    "type": "text",
+                                    "content": "1 The research reported here was supported by the Advanced Research Projects Agency, Department of Defense, monitored by the Air Force Office of Scientific Research under Contract No. AF 49(638)- 1235 with the Human Performance Center, Department of Psychology, University of Michigan. The preparation of this report, completed while the first author enjoyed the hospitality and stimulation of The Rockefeller University as a Visting Assistant Professor, was supported in part by USPHS Grant GM16735 from the National Institute of General Medical Sciences. Jeffrey B. Tirengel assisted in preparing the materials for the experiment."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        258,
+                        285,
+                        450,
+                        405
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                258,
+                                285,
+                                450,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        258,
+                                        285,
+                                        450,
+                                        405
+                                    ],
+                                    "type": "text",
+                                    "content": "long- term memory storage of the item during the interval. The second class of explanations attributes the spacing effect to an assumed variation in the encoding of a presentation as a function of the time since the preceding presentation. The longer the interval between two presentations, the greater the likelihood that the encoding of the second presentation will be a new encoding, that is, will differ from the encoding of the first presentation."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        258,
+                        406,
+                        450,
+                        586
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                258,
+                                406,
+                                450,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        258,
+                                        406,
+                                        450,
+                                        586
+                                    ],
+                                    "type": "text",
+                                    "content": "Both the consolidation and the differential encoding explanations are represented by a number of specific models. The rehearsal- buffer theory proposed by Atkinson and Shiffrin (1968), the trace- consolidation theory proposed by Landauer (1969), and the multi- trace strength theory proposed by Wickelgren (1970) are all examples of the consolidation class. The stimulus fluctuation versions of stimulus sampling theory (Estes, 1955; Izawa, 1967), the multistate Markov models of Bjork (1966), Greeno (1967), Rumelhart (1967) and others, and the encoding variability ideas of Martin (1968) and Melton (1969) are all examples of the differential encoding class."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        257,
+                        588,
+                        450,
+                        643
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                588,
+                                450,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        588,
+                                        450,
+                                        643
+                                    ],
+                                    "type": "text",
+                                    "content": "Certainly the two types of explanation of the spacing effect seem very different: they postulate different processes and they assume a different locus of the spacing effect. The"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                504,
+                720
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        52,
+                        64,
+                        245,
+                        259
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                64,
+                                245,
+                                259
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        64,
+                                        245,
+                                        259
+                                    ],
+                                    "type": "text",
+                                    "content": "consolidation idea asserts that the first of two spaced presentations is more effective than the first of two massed presentations, and the encoding variability idea asserts that the second of two spaced presentations is more effective than the second of two massed presentations. In spite of how different the ideas might seem, however, it is very difficult if not impossible to decide between them on the basis  of  spacing  experiments.  Rummhart (1967) has shown, for example, that there are specific  versions  of  the  rehearsal- buffer, stimulus fluctuation, and multistate Markov theories that are formally equivalent in their predictions  of  performance  in  continuous paired- associate spacing experiments."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        53,
+                        259,
+                        245,
+                        367
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                259,
+                                245,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        259,
+                                        245,
+                                        367
+                                    ],
+                                    "type": "text",
+                                    "content": "This paper reports a new attack on the problem. Rather than investigate the effects of the temporal spacing of two presentations, the present experiment manipulates the difficulty  level  of  the  information  processing required of the subject during the interval that separates the presentations of the material to be remembered. Consider the two conditions diagrammed below."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        58,
+                        374,
+                        241,
+                        398
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                374,
+                                241,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        374,
+                                        241,
+                                        398
+                                    ],
+                                    "type": "text",
+                                    "content": "P1 . . . easy . . . P2 . . . medium . . . Test P1 . . . difficult . . . P2 . . . medium . . . Test"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        53,
+                        404,
+                        246,
+                        488
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                404,
+                                246,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        404,
+                                        246,
+                                        488
+                                    ],
+                                    "type": "text",
+                                    "content": "In both conditions the time from the first "
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        404,
+                                        246,
+                                        488
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(\\mathbf{P}_{1})"
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        404,
+                                        246,
+                                        488
+                                    ],
+                                    "type": "text",
+                                    "content": " to  the  second "
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        404,
+                                        246,
+                                        488
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(\\mathbf{P}_{2})"
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        404,
+                                        246,
+                                        488
+                                    ],
+                                    "type": "text",
+                                    "content": " presentation,  the length of the "
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        404,
+                                        246,
+                                        488
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbf{P}_{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        404,
+                                        246,
+                                        488
+                                    ],
+                                    "type": "text",
+                                    "content": " - Test retention interval, and the difficulty level of the information processing during the retention interval are the same. Only the processing difficulty during the spacing interval is varied."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        54,
+                        490,
+                        246,
+                        632
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                490,
+                                246,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        490,
+                                        246,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "Consolidation theory predicts better per­ formance on the test in the top condition than on the test in the bottom condition. The easy intervening task should permit more consolidation than should the difficult inter­ vening task. For example, in the Atkinson and Shiffrin (1968) model, the average time the to- be- remembered item remains in the re­ hearsal buffer during the easy intervening task should exceed the average time an item is resident in the buffer during the difficult task. Hence,  the  amount  of  information  trans"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        256,
+                        64,
+                        449,
+                        172
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                256,
+                                64,
+                                449,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        256,
+                                        64,
+                                        449,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "ferred to long- term storage during the easy task should exceed that transferred during the difficult task. One might, of course, postulate an unusual consolidation process of some kind that depends only on time and is inde­ pendent  of  the  activity  level  during  the consolidation period. Such a process would predict equal performance in the two condi­ tions."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        257,
+                        174,
+                        449,
+                        514
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                174,
+                                449,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        174,
+                                        449,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "The predictions of the differential encoding theory are less definite. Performance could be better in the difficult- processing condition in spite  of  the  rehearsal  or  fatigue- reduction advantages of the easy- processing condition. If increasing the activity level produces an increase in the effectiveness of the second presentation in a fashion analogous to that assumed  to  occur  when  the  interval  is lengthened, performance on the test could be better in the difficult processing condition. For example, from the standpoint of stimulus fluctuation theory,  the difficult task might produce a higher rate of fluctuation and, hence, more new elements might be available for sampling at the time of the second pre­ sentation. In the multistate Markov models, an item should be less likely in the difficultprocessing condition to remain in the shortterm state from "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        174,
+                                        449,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbf{P}_{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        174,
+                                        449,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": " to "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        174,
+                                        449,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbf{P}_{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        174,
+                                        449,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": " . Under the assump­ tion that the probability of transition to the long- term state is higher from the forgotten state than from the short- term memory state (an assumption for which there is considerable support), the probability of transition to the long- term state at "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        174,
+                                        449,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbf{P}_{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        174,
+                                        449,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": " should be higher in the difficult- processing condition than in the easyprocessing condition."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        336,
+                        529,
+                        372,
+                        540
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                336,
+                                529,
+                                372,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        336,
+                                        529,
+                                        372,
+                                        540
+                                    ],
+                                    "type": "text",
+                                    "content": "METHOD"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        257,
+                        542,
+                        450,
+                        622
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                542,
+                                450,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        542,
+                                        450,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "The experiment employed a variation of the BrownPeterson paradigm. Subjects were asked to remember trigrams consisting of three common four- letter nouns. After a first presentation of a trigram, Ss shadowed digits until they were either cued to recall the trigram or were given a second presentation of the trigram, in which case, they again shadowed digits until they were cued to recall."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        266,
+                        623,
+                        450,
+                        632
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                266,
+                                623,
+                                450,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        266,
+                                        623,
+                                        450,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "Subjects. The Ss were 30 undergraduate women at"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                504,
+                720
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        52,
+                        64,
+                        246,
+                        84
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                64,
+                                246,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        64,
+                                        246,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "the University of Michigan. They were paid for their participation."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        52,
+                        85,
+                        246,
+                        196
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                85,
+                                246,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        85,
+                                        246,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "Materials and apparatus. An experimental session consisted of 60 trials. The same 60 trigrams were presented to each "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        85,
+                                        246,
+                                        196
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "S"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        85,
+                                        246,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": ", although the assignment of the trigrams to the various trial types varied for each "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        85,
+                                        246,
+                                        196
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "S"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        85,
+                                        246,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": ". The trigrams were constructed from common four- letter nouns under the following constraints: (a) no two words in a trigram began with the same letter, (b) no two words in a trigram rhymed, (c) no word was used in more than one trigram, and (d) there were no obvious associations between the words constituting any one trigram."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        52,
+                        197,
+                        246,
+                        246
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                197,
+                                246,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        197,
+                                        246,
+                                        246
+                                    ],
+                                    "type": "text",
+                                    "content": "The apparatus was a high speed (change time less than .05 sec) memory drum. The word trigrams, the digits to be shadowed, and the cues to recall, rest, or get ready for the next trial all appeared in the same window."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        52,
+                        249,
+                        246,
+                        369
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                249,
+                                246,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        249,
+                                        246,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "Design. Trigrams were given one or two presentations on a trial. On the single- presentation trials, the retention interval was either short or long and the shadowing task during the interval was either easy or difficult. Thus, there were four single- presentation conditions. On the double- presentation trials, the interval between the presentations was either short or long, the shadowing task during the spacing interval was either easy or difficult, and the final retention interval was short or long and was filled with a shadowing task of medium difficulty. Thus, there were eight double- presentation conditions."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        52,
+                        370,
+                        246,
+                        440
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                370,
+                                246,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        370,
+                                        246,
+                                        440
+                                    ],
+                                    "type": "text",
+                                    "content": "Every block of 12 trials during an experimental session contained all 12 conditions in random order. Every "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        370,
+                                        246,
+                                        440
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "S"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        370,
+                                        246,
+                                        440
+                                    ],
+                                    "type": "text",
+                                    "content": ", therefore, received five trials on each condition during the 60 trials in a session. Across "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        370,
+                                        246,
+                                        440
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "S"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        370,
+                                        246,
+                                        440
+                                    ],
+                                    "type": "text",
+                                    "content": "s, the assignment of particular trigrams to the 12 conditions was counterbalanced to insure that the same trigrams were tested in every condition."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        52,
+                        442,
+                        246,
+                        632
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                442,
+                                246,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        442,
+                                        246,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "Procedure. Every trial began as follows: the word READY was shown for 2 sec, the drum advanced to a blank space for 1 sec, and a trigram was shown for 2.5 sec. Following the presentation of the trigram, a series of three- digit (easy task) or five- digit (difficult task) numbers were shown at a 1.5- sec rate. The three- digit numbers could be shadowed quite comfortably at a 1.5- sec rate. It was very difficult to shadow the five- digit numbers; "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        442,
+                                        246,
+                                        632
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "S"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        442,
+                                        246,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "s were often unable to shadow the fifth digit in a number before the drum advanced to the next five- digit number. The first shadowing interval was 3 or 12 numbers long (4.5 or 18 sec long in elapsed time). After the first shadowing interval, "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        442,
+                                        246,
+                                        632
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "S"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        442,
+                                        246,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "s were either cued to recall the trigram—the word RECALL was shown for 5 sec—or they were given another 2.5- sec presentation of the trigram. In the latter case, there was a second shadowing interval of 8 or 20 four- digit numbers before the "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        442,
+                                        246,
+                                        632
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "S"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        442,
+                                        246,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": " was cued to recall. Following the RECALL instruction in both single- and double-"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        257,
+                        64,
+                        450,
+                        84
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                64,
+                                450,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        64,
+                                        450,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "presentation trials, a REST instruction was shown for 10 sec before the next trial started."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        257,
+                        85,
+                        450,
+                        125
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                85,
+                                450,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        85,
+                                        450,
+                                        125
+                                    ],
+                                    "type": "text",
+                                    "content": "Before the experimental session began, each "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        85,
+                                        450,
+                                        125
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "S"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        85,
+                                        450,
+                                        125
+                                    ],
+                                    "type": "text",
+                                    "content": " was read a set of instructions and was shown four practice trials. Subjects recalled vocally and their recall was recorded by the experimenter."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        336,
+                        146,
+                        371,
+                        157
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                336,
+                                146,
+                                371,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        336,
+                                        146,
+                                        371,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "RESULTS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        257,
+                        164,
+                        450,
+                        309
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                164,
+                                450,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        164,
+                                        450,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": "The recall of a trigram was scored both in terms of whether the entire trigram was recalled correctly or not, and in terms of whether each individual word in the trigram was recalled correctly or not. The order in which the words in a trigram were recalled was either counted in the scoring (strict scoring) or disregarded (lenient scoring). The recall percentages reported in Table 1 are based on the lenient scoring. The difference between the strict and lenient scoring averaged only about "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        164,
+                                        450,
+                                        309
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "2\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        164,
+                                        450,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": " and was very consistent across conditions."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        334,
+                        331,
+                        371,
+                        341
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                334,
+                                331,
+                                371,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        331,
+                                        371,
+                                        341
+                                    ],
+                                    "type": "text",
+                                    "content": "TABLE 1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "level": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        256,
+                        370,
+                        450,
+                        449
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                256,
+                                370,
+                                450,
+                                449
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        256,
+                                        370,
+                                        450,
+                                        449
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                256,
+                                                370,
+                                                450,
+                                                449
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">Shadowing difficulty</td><td colspan=\"2\">Retention interval</td></tr><tr><td>P1 - T = 3</td><td>P1 - T = 12</td></tr><tr><td>Easy</td><td>24 (46)</td><td>34 (55)</td></tr><tr><td>Difficult</td><td>38 (61)</td><td>49 (68)</td></tr></table>",
+                                            "image_path": "1372b057aec0a5f4ed01d0969530c10879e4b80efa6f6ae226bfe8498a583dc8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                257,
+                                347,
+                                450,
+                                367
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        347,
+                                        450,
+                                        367
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                257,
+                                                347,
+                                                450,
+                                                367
+                                            ],
+                                            "type": "text",
+                                            "content": "PERCENTAGES OF INDIVIDUAL WORDS RECALLED INCORRECTLY ON SINGLE-PRESENTATION TRIALS"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "type": "table_caption"
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        257,
+                        453,
+                        450,
+                        473
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                453,
+                                450,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        453,
+                                        450,
+                                        473
+                                    ],
+                                    "type": "text",
+                                    "content": "a The percentages of trigrams recalled imperfectly are shown in parentheses."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        257,
+                        491,
+                        450,
+                        632
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                491,
+                                450,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        491,
+                                        450,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "Performance on single- presentation trials. In Table 1 are shown the error percentages observed in the single- presentation conditions. The single- presentation conditions were included in the design for two reasons: they provide a check as to whether the difficult task was in fact, as intended, more disruptive of retention, and they give a general picture of the strength of the memory trace at the time of the second presentation in the various double- presentation conditions. Table 1 leaves no doubt that the difficult task was more"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                504,
+                720
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        64,
+                        245,
+                        210
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                64,
+                                245,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        64,
+                                        245,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "disruptive of retention than was the easy task. In fact, performance following a short interval of difficult shadowing was slightly worse than performance following a long interval of easy shadowing. There appeared to be no interaction between difficulty level and interval length: an increase in shadowing difficulty produced a "
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        64,
+                                        245,
+                                        210
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "14 - 15\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        64,
+                                        245,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": " error increase in the recall of individual words, and an increase in the interval length produced a "
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        64,
+                                        245,
+                                        210
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "9 - 10\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        53,
+                                        64,
+                                        245,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": " increase in errors. The pattern of effects on the recall of entire trigrams is very similar."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        53,
+                        210,
+                        245,
+                        259
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                210,
+                                245,
+                                259
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        210,
+                                        245,
+                                        259
+                                    ],
+                                    "type": "text",
+                                    "content": "Performance on double- presentation trials. The error percentages observed in the doublepresentation conditions are shown in Table 2. The comparisons of primary interest in Table 2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        321,
+                        246,
+                        443
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                52,
+                                321,
+                                246,
+                                443
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        321,
+                                        246,
+                                        443
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                321,
+                                                246,
+                                                443
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\">Percentage of Individual Words Recalled Incorrectly on Double-Presentation Trialsa</td></tr><tr><td rowspan=\"2\">P1-P2 Interval</td><td colspan=\"2\">Retention interval</td></tr><tr><td>P2-T=8</td><td>P2-T=20</td></tr><tr><td>Short</td><td></td><td></td></tr><tr><td>Easy</td><td>13 (27)</td><td>21 (39)</td></tr><tr><td>Difficult</td><td>11 (25)</td><td>21 (37)</td></tr><tr><td>Long</td><td></td><td></td></tr><tr><td>Easy</td><td>8 (18)</td><td>18 (30)</td></tr><tr><td>Difficult</td><td>6 (16)</td><td>11 (23)</td></tr></table>",
+                                            "image_path": "3028642e66438acf9c217955b8b1033be7ff681ad405378aa25c1282876309a0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                282,
+                                237,
+                                317
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        282,
+                                        237,
+                                        317
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                282,
+                                                237,
+                                                317
+                                            ],
+                                            "type": "text",
+                                            "content": "TABLE 2 PERCENTAGES OF INDIVIDUAL WORDS RECALLED INCORRECTLY ON DOUBLE-PRESENTATION TRIALS"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                447,
+                                245,
+                                467
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        447,
+                                        245,
+                                        467
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                447,
+                                                245,
+                                                467
+                                            ],
+                                            "type": "text",
+                                            "content": "a The percentages of trigrams recalled imperfectly are shown in parentheses."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        53,
+                        490,
+                        245,
+                        632
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                490,
+                                245,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        490,
+                                        245,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "are between double- presentation conditions that differed only in the difficulty level of the shadowing task during the spacing interval. Although the error percentages were quite close in absolute terms, performance in the difficult- processing conditions appeared slightly but consistently better than performance in the easy- processing conditions. This result is particularly striking in view of the differences in retention levels between the easy and difficult conditions at the time of the second presentation, as revealed by the single"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        257,
+                        64,
+                        449,
+                        209
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                64,
+                                449,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        64,
+                                        449,
+                                        209
+                                    ],
+                                    "type": "text",
+                                    "content": "presentation conditions. The average error percentage in the recall of words at the time of the second presentation was "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        64,
+                                        449,
+                                        209
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "44\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        64,
+                                        449,
+                                        209
+                                    ],
+                                    "type": "text",
+                                    "content": " in the difficult conditions and "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        64,
+                                        449,
+                                        209
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "29\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        64,
+                                        449,
+                                        209
+                                    ],
+                                    "type": "text",
+                                    "content": " in the easy conditions (from Table 1). When there was a second presentation, however, the average error percentages in word recall were 12 and "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        64,
+                                        449,
+                                        209
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "15\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        64,
+                                        449,
+                                        209
+                                    ],
+                                    "type": "text",
+                                    "content": " for the difficult and easy conditions, respectively. From the standpoint of commonsense notions of the memory process, Table 2 makes little sense, given the results in Table 1."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        257,
+                        210,
+                        449,
+                        295
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                210,
+                                449,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        210,
+                                        449,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "The beneficial effects of spacing presentations are quite apparent in Table 2. Averaged over difficulty level during the spacing interval and length of the retention interval, there were "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        210,
+                                        449,
+                                        295
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "60\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        210,
+                                        449,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": " more errors (16.5 vs. 10.3) in word recall when the "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        210,
+                                        449,
+                                        295
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbf{P}_{1} - \\mathbf{P}_{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        210,
+                                        449,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": " interval was short than there were when the "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        210,
+                                        449,
+                                        295
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbf{P}_{1} - \\mathbf{P}_{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        210,
+                                        449,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": " interval was long."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        328,
+                        314,
+                        377,
+                        325
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                328,
+                                314,
+                                377,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        328,
+                                        314,
+                                        377,
+                                        325
+                                    ],
+                                    "type": "text",
+                                    "content": "DISCUSSION"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        257,
+                        332,
+                        449,
+                        477
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                332,
+                                449,
+                                477
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        332,
+                                        449,
+                                        477
+                                    ],
+                                    "type": "text",
+                                    "content": "The results of the present experiment sug- . gest a kind of tradeoff between the length of a distractor task interpolated between two presentations of an item and the difficulty level of the distractor task. A short interval filled with a relatively difficult task simulates the effects of a long interval filled with a relatively easy task, both in terms of performance measured at the end of the interval and, more importantly, in terms of the effects of a repetition at the end of the interval on subsequent performance."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        257,
+                        478,
+                        449,
+                        633
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                478,
+                                449,
+                                633
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        478,
+                                        449,
+                                        633
+                                    ],
+                                    "type": "text",
+                                    "content": "The general theoretical implications of a tradeoff between interpolated task difficulty and task duration seem quite clear: both manipulations influence the effectiveness of a repetition following the interpolated task because they influence the S's encoding of the repetition. Consolidation may be an important process in human short- term verbal memory, but no unelaborated current model of the consolidation type is consistent with the results of the present experiment. A long interval of easy shadowing should lead to more consolidation than a shorter interval of more difficult"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                504,
+                720
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        52,
+                        64,
+                        246,
+                        137
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                64,
+                                246,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        64,
+                                        246,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "shadowing, both because it is longer and because the activity level is lower. It is true that performance in the easy- task conditions in Table 2 is only slightly worse than performance in the difficult- task conditions, but it is certainly not better."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        52,
+                        138,
+                        246,
+                        246
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                138,
+                                246,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        138,
+                                        246,
+                                        246
+                                    ],
+                                    "type": "text",
+                                    "content": "It is one thing to feel quite sure that the spacing effect is primarily a matter of differential encoding rather than trace consolidation, but it is another thing to choose among alternative theories of the differential encoding type. Spacing- difficulty experiments more detailed than the present experiment might provide the basis for choosing among alternative specific models."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        52,
+                        248,
+                        246,
+                        453
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                248,
+                                246,
+                                453
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": "As a concluding comment, it seems worth pointing out that one general conceptualization of the learning- memory process, explicit in many theories a few years ago and often still implicit in our thinking now, is remarkably wrong. The general tenets of this conceptualization are "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(a)"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": " memory traces can be thought to vary in strength along some continuum, "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(b)"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": " the strength of a memory trace determines the probability of recall in a direct way, "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(c)"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": " during interference the strength of a trace decreases in an orderly fashion, and "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(d)"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        248,
+                                        246,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": " a repetition increments the strength of a memory trace according to some inverse function of the current strength of the trace such that the stronger of two traces before repetition is still stronger after repetition."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        52,
+                        454,
+                        246,
+                        643
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                454,
+                                246,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        454,
+                                        246,
+                                        643
+                                    ],
+                                    "type": "text",
+                                    "content": "Such a view of memory predicts that the ordering of the recall probabilities in the single- presentation conditions should determine the ordering of the recall probabilities in the double- presentation conditions. That is, the stronger the memory trace at "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        454,
+                                        246,
+                                        643
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbf{P}_{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        454,
+                                        246,
+                                        643
+                                    ],
+                                    "type": "text",
+                                    "content": ", the stronger it will be after "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        454,
+                                        246,
+                                        643
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathbf{P}_{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        454,
+                                        246,
+                                        643
+                                    ],
+                                    "type": "text",
+                                    "content": " and, hence, the higher the final probability of recall. This prediction is not only unsupported in the present experiment, it is almost perfectly wrong. The short- easy and long- difficult conditions provide a dramatic example. Error frequency after a short period of easy shadowing is only one- half of what it is after a long period of difficult shadowing (Table 1). When a second"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        257,
+                        65,
+                        451,
+                        173
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                65,
+                                451,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        65,
+                                        451,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "presentation is given, however, error frequency after a long final retention interval is twice as high in the short- easy condition as in the long- difficult condition (Table 2). Overall, performance in the single- presentation conditions correlates "
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        65,
+                                        451,
+                                        173
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "- 85"
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        65,
+                                        451,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": " with performance averaged over the two final retention intervals in the corresponding double- presentation conditions."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        257,
+                        174,
+                        451,
+                        295
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                174,
+                                451,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        174,
+                                        451,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "It is important to continually remind ourselves that recall probability at any point in time is an imperfect indicator of both the \"strength\" of the representation of an item in memory and the expected changes in recall probability following a repetition. An adequate theory of memory may depend on a multifaceted representation of the memory trace quite unlike anything assumed by current theories."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        334,
+                        318,
+                        375,
+                        326
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                334,
+                                318,
+                                375,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        318,
+                                        375,
+                                        326
+                                    ],
+                                    "type": "text",
+                                    "content": "REFERENCES"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        257,
+                        333,
+                        451,
+                        636
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                333,
+                                451,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        333,
+                                        451,
+                                        636
+                                    ],
+                                    "type": "text",
+                                    "content": "ATKINSON, R. C., & SHIFFRIN, R. M. Human memory: A proposed system and its control processes. In K. W. Spence and J. T. Spence (Eds.), The psychology of learning and motivation: Advances in research and theory. Vol. II. New York: Academic Press, 1968. BJORK, R. A. Learning and short- term retention of paired- associates in relation to specific sequences of interpretation intervals. Technical Report No. 106, 1966, Institute for Mathematical Studies in the Social Sciences, Stanford University. BJORK, R. A. Repetition and rehearsal mechanisms in models of short- term memory. In D. A. Norman (Ed.), Models of memory. New York: Academic Press, 1970. ESTES, W. K. Statistical theory of spontaneous recovery and regression. Psychological Review, 1955, 62, 145- 154. GREENO, J. G. Paired- associate learning with short- term retention: Mathematical analysis and data regarding identification of parameters. Journal of Mathematical Psychology, 1967, 4, 430- 472. IZAWA, C. Function of test trials in paired- associate learning. Journal of Experimental Psychology, 1967, 75, 194- 209. LANDAUER, T. K. Reinforcement as consolidation. Psychological Review, 1969, 76, 82- 96. MARTIN, E. Stimulus meaningfulness and paired associate transfer: an encoding variability hypothesis. Psychological Review, 1968, 75, 421- 441."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                504,
+                720
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        65,
+                        246,
+                        115
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                65,
+                                246,
+                                115
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        65,
+                                        246,
+                                        115
+                                    ],
+                                    "type": "text",
+                                    "content": "MELTON, A. W. Repetition and remembering. Paper presented as presidential address before Division of Experimental Psychology, Meetings of the American Psychological Association, Washington, D.C., September 1969."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        53,
+                        116,
+                        246,
+                        145
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                116,
+                                246,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        116,
+                                        246,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "Rumelhart, D. E. The effects of interpretation interval on performance in a continuous paired- associate task. Technical Report No. 116, 1967,"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        273,
+                        66,
+                        450,
+                        85
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                273,
+                                66,
+                                450,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        66,
+                                        450,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "Institute for Mathematical Studies in the Social Sciences, Stanford University."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        257,
+                        86,
+                        449,
+                        115
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                86,
+                                449,
+                                115
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        86,
+                                        449,
+                                        115
+                                    ],
+                                    "type": "text",
+                                    "content": "Wickelgren, W. A. Multitrace strength theory. In D. A. Norman (Ed.), *Models of memory*. New York: Academic Press, 1970."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        257,
+                        136,
+                        347,
+                        146
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                136,
+                                347,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        136,
+                                        347,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "(Received May 15, 1970)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                504,
+                720
+            ],
+            "page_idx": 5
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.1.9"
+}

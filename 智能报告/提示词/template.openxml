@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing">
+<w:body>
+
+  <!-- 6 blank lines at the beginning of the cover page to center the content vertically -->
+  <w:p><w:pPr><w:pStyle w:val="Normal" /></w:pPr></w:p>
+  <w:p><w:pPr><w:pStyle w:val="Normal" /></w:pPr></w:p>
+  <w:p><w:pPr><w:pStyle w:val="Normal" /></w:pPr></w:p>
+  <w:p><w:pPr><w:pStyle w:val="Normal" /></w:pPr></w:p>
+  <w:p><w:pPr><w:pStyle w:val="Normal" /></w:pPr></w:p>
+  <w:p><w:pPr><w:pStyle w:val="Normal" /></w:pPr></w:p>
+
+  $if(title)$
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="$title-style-id$" />
+      </w:pPr>
+      $title$
+    </w:p>
+  $endif$
+
+  <!-- Blank line between the title and the rest of the cover page information -->
+  <w:p><w:pPr><w:pStyle w:val="Normal" /></w:pPr></w:p>
+
+  $if(student-name)$
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Subheading" />
+      </w:pPr>
+      $student-name$
+    </w:p>
+  $endif$
+  $if(affiliation)$
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Subheading" />
+      </w:pPr>
+      $affiliation$
+    </w:p>
+  $endif$
+  $if(course)$
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Subheading" />
+      </w:pPr>
+      $course$
+    </w:p>
+  $endif$
+  $if(instructor)$
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Subheading" />
+      </w:pPr>
+      $instructor$
+    </w:p>
+  $endif$
+  $if(due-date)$
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Subheading" />
+      </w:pPr>
+      $due-date$
+    </w:p>
+  $endif$
+
+  <!-- This MUST be paper-abstract, and not only abstract, or the style will break! -->
+  $if(paper-abstract)$
+    <!-- Page break to start the abstract page -->
+    <w:p><w:r><w:br w:type="page" /></w:r></w:p>
+
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+      </w:pPr>
+      <w:r><w:t>Abstract</w:t></w:r>
+    </w:p>
+
+    <w:p>
+      <w:pPr>
+        <!-- Make the abstract un-indented -->
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t>$paper-abstract$</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+        </w:rPr>
+        <w:t xml:space="preserve">Keywords: </w:t>
+      </w:r>
+      <w:r>
+        <w:t>$keywords$</w:t>
+      </w:r>
+    </w:p>
+
+  $endif$
+
+  $if(title)$
+    <!-- Page break to start the paper body -->
+    <!-- Repeat the title on the first body page -->
+    <w:p><w:r><w:br w:type="page" /></w:r></w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="$title-style-id$" />
+      </w:pPr>
+      $title$
+    </w:p>
+  $endif$
+
+  $body$
+
+  <!-- Header -->
+  $sectpr$
+</w:body>
+</w:document>
